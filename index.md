@@ -52,12 +52,8 @@ The great people with whom I had the pleasure to seek mentorship and work or wit
 If you want to get in touch, you can reach me at any time via <alexander.max.bauer@uni-oldenburg.de>.
 
 On the internet, there are also some other places where you can find me, including:
-+ [Academia.edu](https://uni-oldenburg.academia.edu/alexandermaxbauer)
-+ [Google Scholar](https://scholar.google.de/citations?user=EFeokZUAAAAJ)
-+ [ORCID](https://orcid.org/0000-0003-0923-6864)
-+ [OSF](https://osf.io/e7hpd/)
-+ [PhilPeople](https://philpeople.org/profiles/alexander-max-bauer)
-+ [ResearchGate](https://www.researchgate.net/profile/Alexander-Bauer-2)
-+ [Twitter](https://twitter.com/alephmembeth)
-+ [University of Oldenburg](https://uol.de/philosophie/alexander-max-bauer)
-+ [Wikipedia](https://de.wikipedia.org/wiki/Benutzer:Alephmembeth)
++ [LinkedIn](https://www.linkedin.com/in/mokshgarg/)
++ [Quora](https://www.quora.com/profile/Moksh-Garg-3)
++ [Twitter](https://twitter.com/moksh_grg)
++ [Indian School Of Business](https://www.isb.edu/en/research-thought-leadership/research-centres-institutes/thomas-schmidheiny-centre-for-family-enterprise/people/team/moksh-garg.html)
+
