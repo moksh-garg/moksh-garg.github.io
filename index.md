@@ -45,7 +45,7 @@ The great people with whom I had the pleasure to seek mentorship and work or wit
 + [Promila Agarwal](https://www.iima.ac.in/web/faculty/faculty-profiles/promila-agarwal) (Indian Institute of Management Ahmedabad)
 + [Kavil Ramachandran](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/kavil-ramachandran.html) (Indian School of Business)
 + [Sougata Ray](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/sougata-ray.html) (Indian School of Business)
-+ [Vishal Gupta]()(University of Alabama)
++ [Vishal Gupta]() (University of Alabama)
 
 * * *
 
