@@ -29,7 +29,7 @@ I am currently based out of (and surely enchanted by) Hyderabad, popularly known
 <summary>Old news</summary>
 <br>
 <ul>
-   <li>27/04/2020: <a href="https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/">“Sammelband ‘Empirical Research and Normative Theory’ erschienen”</a> (DFG Research Group FOR 2104)</li>
+   <li>17/12/2021: <a href="https://forms.iimk.ac.in/research/wmc2021/docs/wmc21_conference_proceedings.pdf">“The Interplay between Corporate Sustainability and Organizational Willingness and Ability: Evidence from India”</a> (IIM World Management Conference 2022)</li>
    <li>28/10/2019: <a href="https://www.presse.uni-oldenburg.de/mit/2019/362.html">“Von der Unendlichkeit, Lügnern und dem Hören. Ringvorlesung zu Paradoxien an der Universität Oldenburg”</a> (University of Oldenburg)</li>
    <li>25/09/2019: <a href="https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/">“Neuer Sammelband ‘Philosophie zwischen Sein und Sollen’ erschienen”</a> (DFG Research Group FOR 2104)</li>
    <li>18/04/2019: <a href="https://uol.de/en/news/article/schreiben-lernen-im-tandem-3250">“Besser schreiben im Tandem”</a> (University of Oldenburg)</li>
