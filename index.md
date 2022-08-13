@@ -49,7 +49,7 @@ The great people with whom I had the pleasure to seek mentorship and work or wit
 
 # Get in Touch
 
-If you want to get in touch, you can reach me at any time via <alexander.max.bauer@uni-oldenburg.de>.
+If you want to get in touch, you can reach me at any time via email : moksh_garg@isb.edu
 
 On the internet, there are also some other places where you can find me, including:
 + [LinkedIn](https://www.linkedin.com/in/mokshgarg/)
