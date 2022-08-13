@@ -14,7 +14,7 @@ I am currently based out of (and surely enchanted by) Hyderabad, popularly known
    <dt>Areas of Competence:</dt>
       <dd> Econometrics, Causal Inference, Text Analysis (Python) </dd>
    <dt>Areas of Interest:</dt>
-      <dd> Organizational Theory, Categories, Cross-sector Collaboration </dd>
+      <dd> Organizational Theory, Social Activism, Stakeholder Engagement, Cross-sector Collaboration </dd>
 </dl>
 
 * * *
@@ -32,19 +32,6 @@ I am currently based out of (and surely enchanted by) Hyderabad, popularly known
    <li>17/12/2021: <a href="https://forms.iimk.ac.in/research/wmc2021/docs/wmc21_conference_proceedings.pdf">“The Interplay between Corporate Sustainability and Organizational Willingness and Ability: Evidence from India”</a> (IIM World Management Conference 2022)</li>
 </ul>
 </details>
-
-* * *
-
-# Projects
-
-The projects I’m currently working on include:
-+ my cumulative dissertation on need-based distributive justice
-+ an empirical study on need-based distributive justice (jointly with Jan Romann, Mark Siebel, and Stefan Traub)
-+ an empirical study on causality (jointly with Stephan Kornmesser)
-+ an edited volume on paradoxes (to be published with mentis; jointly with Gregor Damschen and Mark Siebel)
-+ an edited volume on experimental philosophy (to be published with Walter de Gruyter; jointly with Stephan Kornmesser)
-+ an introduction to experimental philosophy (to be published with Springer and J. B. Metzler; jointly with Stephan Kornmesser)
-+ the next volume of the _Oldenburger Jahrbuch für Philosophie_ (to be published with BIS-Verlag)
 
 * * *
 
