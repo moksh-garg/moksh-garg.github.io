@@ -10,20 +10,20 @@ I am currently based out of (and surely enchanted by) Hyderabad, popularly known
 
 <dl>
    <dt>Areas of Specialization:</dt>
-      <dd> Management and Organizations </dd>
+      <dd> Business Administration & Management </dd>
    <dt>Areas of Competence:</dt>
-      <dd> Econometrics, Causal Inference, Text Analysis </dd>
+      <dd> Econometrics, Causal Inference, Text Analysis (Python) </dd>
    <dt>Areas of Interest:</dt>
-      <dd> Economic Sociology, Computational Methods, Field Experiments </dd>
+      <dd> Organizational Theory, Categories, Cross-sector Collaboration </dd>
 </dl>
 
 * * *
 
 # News
 
-+ 23/06/2022: [“When heating in winter becomes a luxury”](https://uol.de/en/news/article/when-heating-in-winter-becomes-a-luxury-6327) (University of Oldenburg)
-+ 24/05/2022: [“Wie knappes Heizmaterial gerecht verteilen? Forschende veröffentlichen Studie zu Verteilungsgerechtigkeit”](https://www.presse.uni-oldenburg.de/mit/2022/103.html) (University of Oldenburg)
-+ 20/04/2022: [“Lernen, mit der Freiheit umzugehen”](https://uol.de/aktuelles/gestaerkt-promovieren/lernen-mit-der-freiheit-umzugehen) (University of Oldenburg)
++ 15/03/2022: [“Numbers & Beyond: Gender Equity in Corporate India at Board Level”](https://www.financialexpress.com/education-2/numbers-and-beyond-gender-equity-in-corporate-india-at-board-level/2458723/) (Financial Express)
++ 09/02/2022: [“Glass Ceiling: Research Report on Leadership Gender Balance in NSE 200 Companies”](http://vslir.iima.ac.in:8080/jspui/handle/11718/24912) (Indian Institute of Management Ahmedabad)
++ 4/02/2022: [“Governance at Glenmark: Developing an Effective Formulation”](https://www.isb.edu/en/research-thought-leadership/research-centres-institutes/thomas-schmidheiny-centre-for-family-enterprise/practice-outreach/family-enterprise-quarterly--issue-1.html) (Indian School of Business)
 
 <details>
 <summary>Old news</summary>
