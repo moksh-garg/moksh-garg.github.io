@@ -12,11 +12,11 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
 
 <dl>
    <dt>Areas of Specialization:</dt>
-      <dd>Experimental Philosophy, Need-Based Distributive Justice</dd>
+      <dd> Management and Organizations </dd>
    <dt>Areas of Competence:</dt>
-      <dd>Causation, Distributive Justice</dd>
+      <dd> Econometrics, Causal Inference, Text Analysis </dd>
    <dt>Areas of Interest:</dt>
-      <dd>Philosophy of Science, Philosophy of Language</dd>
+      <dd> Economic Sociology, Computational Methods, Field Experiments </dd>
 </dl>
 
 * * *
