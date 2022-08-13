@@ -30,11 +30,6 @@ I am currently based out of (and surely enchanted by) Hyderabad, popularly known
 <br>
 <ul>
    <li>17/12/2021: <a href="https://forms.iimk.ac.in/research/wmc2021/docs/wmc21_conference_proceedings.pdf">“The Interplay between Corporate Sustainability and Organizational Willingness and Ability: Evidence from India”</a> (IIM World Management Conference 2022)</li>
-   <li>28/10/2019: <a href="https://www.presse.uni-oldenburg.de/mit/2019/362.html">“Von der Unendlichkeit, Lügnern und dem Hören. Ringvorlesung zu Paradoxien an der Universität Oldenburg”</a> (University of Oldenburg)</li>
-   <li>25/09/2019: <a href="https://www.hsu-hh.de/bedarfsgerechtigkeit/aktuelles/">“Neuer Sammelband ‘Philosophie zwischen Sein und Sollen’ erschienen”</a> (DFG Research Group FOR 2104)</li>
-   <li>18/04/2019: <a href="https://uol.de/en/news/article/schreiben-lernen-im-tandem-3250">“Besser schreiben im Tandem”</a> (University of Oldenburg)</li>
-   <li>08/12/2017: <a href="https://karl-jaspers-gesellschaft.de/mind-the-gap-zur-vermittlung-normativer-theorie-und-empirischer-forschung-malte-meyerhuber-und-max-bauer/">“Mind the Gap. Zur Vermittlung normativer Theorie und empirischer Forschung”</a> (Karl-Jaspers-Gesellschaft)</li>
-   <li>02/07/2015: <a href="https://www.presse.uni-oldenburg.de/mit/2015/280.html">“Was Begriffe für unser Leben bedeuten. Berliner Philosoph referiert über ‘Zeitbewusstsein und Sinn-Horizonte’”</a> (University of Oldenburg)</li>
 </ul>
 </details>
 
@@ -53,22 +48,15 @@ The projects I’m currently working on include:
 
 * * *
 
-# Collaborators
+# Mentors & Collaborators
 
-The great people with whom I had the pleasure to work or with whom I’m currently working include:
-+ [Dr. Nils Baratella](https://uol.de/philosophie/dr-nils-baratella) (Hochschule Düsseldorf, University of Applied Sciences)
-+ [Dr. Gregor Damschen](https://uol.de/philosophie/dr-gregor-damschen) (University of Oldenburg)
-+ [Prof. Dr. Adele Diederich](https://www.jacobs-university.de/directory/adiederich) (Jacobs University Bremen)
-+ [Helena Esther Grass](https://uol.de/philosophie/helena-grass) (University of Oldenburg)
-+ [Dr. Stephan Kornmesser](https://uol.de/stephan-kornmesser) (University of Oldenburg)
-+ [Dr. Frauke Meyer](https://www.fz-juelich.de/profile/meyer_f) (Jülich Research Centre)
-+ [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (QUOTAC Management)
-+ [Jan Romann](https://github.com/JKRhb) (University of Bremen)
-+ [Prof. Dr. Mark Siebel](https://uol.de/philosophie/prof-dr-mark-siebel) (University of Oldenburg)
-+ [Nils Springhorn](https://uol.de/polsys/team/nils-springhorn) (University of Oldenburg)
-+ [Prof. Dr. Stefan Traub](https://www.hsu-hh.de/be/) (Helmut Schmidt University, University of the Federal Armed Forces Hamburg)
-+ [Dr. Arne Robert Weiß](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante)
-+ [Dr. Marc Wyszynski](https://www.jacobs-university.de/directory/mwyszynski) (Jacobs University Bremen)
+The great people with whom I had the pleasure to seek mentorship and work or with whom I’m currently working include (in alphabetical order):
++ [Dalhia Mani](https://www.iimb.ac.in/user/95/dalhia-mani) (Indian Institute of Management Bangalore)
++ [Deepak Jena](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/deepak-jena.html) (Indian School of Business)
++ [Promila Agarwal](https://www.iima.ac.in/web/faculty/faculty-profiles/promila-agarwal) (Indian Institute of Management Ahmedabad)
++ [Kavil Ramachandran](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/kavil-ramachandran.html) (Indian School of Business)
++ [Sougata Ray](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/sougata-ray.html) (Indian School of Business)
++ [Vishal Gupta]()(University of Alabama)
 
 * * *
 
