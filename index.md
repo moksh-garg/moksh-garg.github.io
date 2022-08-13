@@ -12,7 +12,9 @@ I am currently based out of (and surely enchanted by) Hyderabad, popularly known
    <dt>Areas of Specialization:</dt>
       <dd> Business Administration & Management </dd>
    <dt>Areas of Competence:</dt>
-      <dd> Econometrics, Causal Inference, Text Analysis (Python) </dd>
+      <dd> Econometrics, Causal Inference, Text Analysis </dd>
+    <dt> Software & Applications:</dt>
+      <dd> STATA, Python, R, MAXQDA, Pajek, Tableau </dd>
    <dt>Areas of Interest:</dt>
       <dd> Organizational Theory, Social Activism, Stakeholder Engagement, Cross-sector Collaboration </dd>
 </dl>
