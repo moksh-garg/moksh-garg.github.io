@@ -2,9 +2,11 @@
 layout: default
 ---
 
-Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at [my education](./education.md), [my employment](./employment.md), [the things I’ve written](./publications.md), [the presentations I’ve held](./presentations.md), [the events I’ve organised](./events.md), or [the courses I’ve taught](./teaching.md). There is also information regarding [my services to the profession](./services.md) as well as [the grants and honors I’ve received](./financials.md).
+Hi, I am Moksh! I’m a pre-doctoral researcher at the Indian School of Business. If you want to know more about me, feel free to take a look at [my education](./education.md), [my employment](./employment.md), [the things I’ve written](./publications.md), [the presentations I’ve held](./presentations.md), [the events I’ve organised](./events.md), or [the courses I’ve taught](./teaching.md). There is also information regarding [my services to the community](./services.md) as well as [the grants and honors I’ve received](./financials.md).
 
-You can find the latest PDF of my English cv [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf) and of my German cv [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/german/cv_german.pdf).
+I am currently based out of (and surely enchanted by) Hyderabad, popularly known as "The City of Pearls". Having spent most of my life in the northern plains with hardly any opportunity to travel during childhood, I am enjoying my time exploring the social and cultural milieu of southern India.
+
+You can find the latest PDF of my CV [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf).
 
 The portrait to the left (or above, if you’re on a mobile device), by the way, was made by the talented [Spiceestew](https://spiceestew.carrd.co/).
 
