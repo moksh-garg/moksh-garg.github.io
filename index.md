@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Hi, I am Moksh! I am a pre-doctoral researcher at the Indian School of Business. If you want to know more about me, feel free to take a look at my [educational backgorund](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), [presentations](./presentations.md) made, and the [courses](./teaching.md) I have taught. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received.
+Hi, I am Moksh! I am a pre-doctoral researcher at the Indian School of Business. If you want to know more about me, feel free to take a look at my [educational backgorund](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), [presentations](./presentations.md) made, and the [courses](./teaching.md) I have taught. 
+
+There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received. You can find the latest PDF of my CV [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf).
 
 I am currently based out of (and surely enchanted by) Hyderabad, popularly known as "The City of Pearls". Having spent most of my life in the northern plains with hardly any opportunity to travel during childhood, I am enjoying my time exploring the social and cultural milieu of southern India. 
-
-You can find the latest PDF of my CV [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf).
 
 <dl>
    <dt>Areas of Specialization:</dt>
