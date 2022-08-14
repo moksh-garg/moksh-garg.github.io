@@ -4,4 +4,4 @@ layout: default
 
 # Presentations
 
-+ “ESG: The things we don't talk about” (October 2, 2021); Invited by Grandeur - The Consulting & Knowledge Cell of SSCBS 
++ “ESG: The things we do not talk about” (October 2, 2021); Invited by Grandeur - The Consulting & Knowledge Cell of SSCBS 
