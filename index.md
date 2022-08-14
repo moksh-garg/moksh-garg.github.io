@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi, I am Moksh! I am a pre-doctoral researcher at the Indian School of Business. If you want to know more about me, feel free to take a look at my [educational backgorund](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), [presentations](./presentations.md) made, and the [courses](./teaching.md) I have taught. 
+Hi, I am Moksh! I am a pre-doctoral researcher at the Indian School of Business. If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), [presentations](./presentations.md) made, and the [courses](./teaching.md) I have taught. 
 
 There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received.
 
