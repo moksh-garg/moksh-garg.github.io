@@ -24,7 +24,7 @@ I am currently based out of (and surely enchanted by) Hyderabad, popularly known
 # News
 
 + 15/03/2022: [“Numbers & Beyond: Gender Equity in Corporate India at Board Level”](https://www.financialexpress.com/education-2/numbers-and-beyond-gender-equity-in-corporate-india-at-board-level/2458723/) (Financial Express)
-+ 09/02/2022: [“Glass Ceiling: Research Report on Leadership Gender Balance in NSE 200 Companies”](http://vslir.iima.ac.in:8080/jspui/handle/11718/24912) (IIMA ESG Centre of Research and Innovation)
++ 09/02/2022: [“Glass Ceiling: Research Report on Leadership Gender Balance in NSE 200 Companies”](http://vslir.iima.ac.in:8080/jspui/handle/11718/24912) (IIMA ESG Centre for Research and Innovation)
 + 4/02/2022: [“Governance at Glenmark: Developing an Effective Formulation”](https://www.isb.edu/en/research-thought-leadership/research-centres-institutes/thomas-schmidheiny-centre-for-family-enterprise/practice-outreach/family-enterprise-quarterly--issue-1.html) (Family Enterprise Quarterly)
 
 <details>
