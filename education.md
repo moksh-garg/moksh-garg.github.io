@@ -10,5 +10,5 @@ layout: default
    <dt>Bachelor of Management Studies (Finance)</dt>
       <dd>July 2013 – May 2016; College of Business Studies, University of Delhi </dd>
    <dt>Senior Secondary Education </dt>
-      <dd>April 2011 – March 2013; Kendriya Vidayalaya Sangathan </dd>
+      <dd>April 2011 – March 2013; Kendriya Vidayalaya Sangathan</dd>
 </dl>
