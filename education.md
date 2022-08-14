@@ -6,8 +6,8 @@ layout: default
 
 <dl>
    <dt>Master of Business Administration (General Management)</dt>
-      <dd>June 2017 – March 2019; Indian Institute of Management Ahmedabad
+      <dd>June 2017 – March 2019; [Indian Institute of Management Ahmedabad](https://www.iima.ac.in/)
    <dt>Bachelor of Management Studies (Finance)</dt>
-      <dd>July 2013 – May 2016; College of Business Studies, University of Delhi </dd>
+      <dd>July 2013 – May 2016; [College of Business Studies](https://sscbs.du.ac.in/), University of Delhi </dd>
    <dt>Senior Secondary Education </dt>
       <dd>April 2011 – March 2013; Kendriya Vidayalaya Sangathan</dd>
