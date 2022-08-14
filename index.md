@@ -39,7 +39,7 @@ I am currently based out of (and surely enchanted by) Hyderabad, popularly known
 
 # Mentors & Collaborators
 
-The great people with from I had the pleasure to seek mentorship and with whom I have worked or am currently working include (in alphabetical order):
+The great people from I had the pleasure to seek mentorship and with whom I have worked or am currently working include (in alphabetical order):
 + [Dalhia Mani](https://www.iimb.ac.in/user/95/dalhia-mani) (Indian Institute of Management Bangalore)
 + [Deepak Jena](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/deepak-jena.html) (Indian School of Business)
 + [Promila Agarwal](https://www.iima.ac.in/web/faculty/faculty-profiles/promila-agarwal) (Indian Institute of Management Ahmedabad)
