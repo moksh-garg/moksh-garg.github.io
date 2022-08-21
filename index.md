@@ -16,7 +16,7 @@ I am currently based out of (and surely enchanted by) Hyderabad, popularly known
     <dt> Software & Applications:</dt>
       <dd> STATA, Python, R, MAXQDA, Pajek, Tableau </dd>
    <dt>Areas of Interest:</dt>
-      <dd> Organizational Theory, Social Activism, Market Categories, Institutional Strategy, Computational Methods</dd>
+      <dd> Organizational Theory, Political Activism, Stakeholder Engagement, Computational Methods</dd>
 </dl>
 
 * * *
