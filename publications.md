@@ -14,7 +14,7 @@ layout: default
 + Garg, M. (2021, December 16-18). The Interplay between Corporate Sustainability and Organizational Willingness and Ability: Evidence from India. 8th PAN IIM World Management Conference, Kozhikode, India. (Accepted and Presented)
 
 ## Case Studies
-+ Bhatnagar, N., Ray, S., Ramachandran, K. & Garg, M.(2022). Mariwala's Family Entrepreneruship Challenges (Parts A & B). (To be submitted to Harvard Business Publishing)
++ Bhatnagar, N., Garg, M., Ray, S., &  Ramachandran, K. (2022). Mariwala's Family Entrepreneruship Challenges (Parts A & B). (To be submitted to Harvard Business Publishing)
 + Bhatnagar, N. & Garg, M.(2022). Governance at Glenmark: Developing an Effective Formulation. Family Enterprise Quarterly, 1(1), 9-10.
 
 ## Policy & Media Engagement 
