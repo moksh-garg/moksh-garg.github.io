@@ -5,7 +5,7 @@ layout: default
 # Publications
 
 ## Working Papers
-+ Ray, S. & Garg, M. (2022). Bringing Back Family into Family Business Literature: A Sociological Perspective. Working Paper. 
++ Garg, M. & Ray, S. (2022). Bringing Back Family into Family Business Literature: A Sociological Perspective. Working Paper. 
 + Garg, M. (2022). Rising from the Ashes: Analyzing the Impact of Glass Cliff Appointments on Structural Equality and Firm Value. Working Paper. 
 + Garg, M., Bang, N., & Ray, S. (2022). Going an Extra Mile: Investigating Structural Determinants of Firm’s Sustainability Orientation. Working Paper. 
 
