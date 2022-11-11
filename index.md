@@ -2,11 +2,9 @@
 layout: default
 ---
 
-Hi, I am Moksh! I am a pre-doctoral researcher at the Indian School of Business. I am interested in understanding how organizations navigate institutional complexities. If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), [presentations](./presentations.md) made, and the [courses](./teaching.md) I have taught. 
+Hi, I am Moksh! I am a pre-doctoral researcher at the Indian School of Business. I am broadly interested in understanding how organizations navigate institutional complexities. I am currently based out of Hyderabad, popularly known as "The City of Pearls". Having spent most of my life in the northern plains with hardly any opportunity to travel during childhood, I am enchanted by the social and cultural milieu of southern India. 
 
-There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received.
-
-I am currently based out of Hyderabad, popularly known as "The City of Pearls". Having spent most of my life in the northern plains with hardly any opportunity to travel during childhood, I am enchanted by the social and cultural milieu of southern India. 
+If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), [presentations](./presentations.md) made, and the [courses](./teaching.md) I have taught. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received.
 
 <dl>
    <dt>Areas of Specialization:</dt>
