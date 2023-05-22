@@ -49,7 +49,7 @@ The great people from I had the pleasure to seek mentorship and with whom I have
 
 # Get in Touch
 
-If you want to get in touch, you can reach me at any time via email : moksh_garg@isb.edu
+If you want to get in touch, you can reach me at any time via email : mokshg@mit.edu
 
 On the internet, there are also some other places where you can find me, including:
 + [LinkedIn](https://www.linkedin.com/in/mokshgarg/)
