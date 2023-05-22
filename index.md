@@ -6,9 +6,7 @@ Hi, I am Moksh! I am an incoming Ph.D. student in Management with a concentratio
 
 Owing to my inquistive nature, I am interested in a wide range of topics. I am fascinated by the sociological construction of markets and plan to investigate how social institutions - such as family, kinship, caste, community, and religion - shape economic behavior and outcomes. I am also interested in analyzing organizations as vehicles for socially purposive action and explaining how they may collaborate with a wide range of traditional and non-traditional stakeholders to activate and exercise collective agency.  
 
-I previously worked as a pre-doctoral researcher at the Indian School of Business and was based out of Hyderabad, popularly known as "The City of Pearls". Having spent most of my life in the northern plains with hardly any opportunity to travel during childhood, I am enchanted by the social and cultural milieu of southern India. 
-
-If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), [presentations](./presentations.md) made, and the [courses](./teaching.md) I have taught. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received.
+I previously worked as a pre-doctoral researcher at the Indian School of Business and was based out of Hyderabad, popularly known as "The City of Pearls". If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), [presentations](./presentations.md) made, and the [courses](./teaching.md) I have taught. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received.
 
 <dl>
    <dt>Areas of Specialization:</dt>
