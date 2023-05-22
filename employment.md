@@ -21,7 +21,6 @@ layout: default
       <dd>Academy of Management</dd>
       <dd>Organization and Management Theory Division</dd>
       <dd>Strategic Management Division</dd>
-      <dd>European Group of Organizational Studies</dd>
       <dd>Mobbera Foundation</dd>
 </dl>
 
