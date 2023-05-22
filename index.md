@@ -9,14 +9,15 @@ Owing to my inquistive nature, I am interested in a wide range of topics. I am f
 I previously worked as a pre-doctoral researcher at the Indian School of Business and was based out of Hyderabad, popularly known as "The City of Pearls". If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), [presentations](./presentations.md) made, and the [courses](./teaching.md) I have taught. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received.
 
 <dl>
-   <dt>Areas of Specialization:</dt>
+   <dt>Field of Specialization:</dt>
       <dd> Economic Sociology </dd>
+    <dt>Areas of Interest:</dt>
+      <dd> Organizational Theory, Institutional Strategy, Quanitative Sociology, Field Experiments </dd>
    <dt>Areas of Competence:</dt>
       <dd> Econometrics, Causal Inference, Text Analysis </dd>
     <dt> Software & Applications:</dt>
       <dd> STATA, Python, R, MAXQDA, Pajek, Tableau </dd>
-   <dt>Areas of Interest:</dt>
-      <dd> Organizational Theory, Institutional Strategy, Quanitative Sociology, Field Experiments </dd>
+  
 </dl>
 
 * * *
