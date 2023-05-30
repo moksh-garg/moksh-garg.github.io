@@ -8,7 +8,7 @@ Owing to my inquistive nature, I am interested in a wide range of topics. I am f
 
 I previously worked as a pre-doctoral researcher at the Indian School of Business and was based out of Hyderabad, popularly known as "The City of Pearls". If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), [presentations](./presentations.md) made, and the [courses](./teaching.md) I have taught. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received.
 
-If you are looking for the Unofficial Guide for the Indian Business Ph.D. Applicants, you can download it <a href="https://forms.iimk.ac.in/research/wmc2021/docs/wmc21_conference_proceedings.pdf">“here”</a>. 
+If you are looking for the Unofficial Guide for the Indian Business Ph.D. Applicants, you can download it [here](./PhD Guide.pdf)
 
 
 <dl>
