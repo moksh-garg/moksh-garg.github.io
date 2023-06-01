@@ -8,7 +8,7 @@ I previously worked as a pre-doctoral researcher at the Indian School of Busines
 * * *
 <dl>
    <dt>Unofficial Guide for the Indian Business Ph.D. Applicants:</dt>
-      <dd> You can download it [here](./PhDGuide.pdf) </dd>
+   You can download it [here](./PhDGuide.pdf)
 </dl>
 
 * * *
