@@ -11,7 +11,7 @@ I previously worked as a pre-doctoral researcher at the Indian School of Busines
    <dt>Unofficial Guide for the Indian Business Ph.D. Applicants:</dt>
 </dl>
 
-Are you planning for a US/European Business Ph.D. but not quite sure of how to got about it? Maybe a sneak peak into the application process will help you decide better. Even though the document is written from the Indian perspective, it should come in handy for most international applicants. You can download the document [here](./PhDGuide.pdf)
+Are you planning for a US/European Business Ph.D. but not quite sure of how to got about it? Maybe a sneak peak into the application process will help you decide better. Even though the document is written from the Indian perspective, it should come in handy for most international applicants. You can download it [here](./PhDGuide.pdf)
 
 * * *
 
