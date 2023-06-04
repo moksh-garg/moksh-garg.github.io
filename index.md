@@ -21,7 +21,7 @@ Owing to my inquistive nature, I am interested in a wide range of topics. I am f
    <dt>Field of Specialization:</dt>
       <dd> Economic Sociology </dd>
     <dt>Areas of Interest:</dt>
-      <dd> Organizational Theory, Institutional Strategy, Quanitative Sociology, Field Experiments </dd>
+      <dd> Organizational Theory, Institutional Strategy, Quantitative Sociology, Field Experiments </dd>
    <dt>Areas of Competence:</dt>
       <dd> Econometrics, Causal Inference, Text Analysis </dd>
     <dt> Software & Applications:</dt>
