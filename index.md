@@ -6,7 +6,7 @@ Hi, I am Moksh! I am an incoming Ph.D. student in Management with a concentratio
 
 I previously worked as a pre-doctoral researcher at the Indian School of Business and was based out of Hyderabad, popularly known as "The City of Pearls". If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), and [presentations](./presentations.md) made. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received. 
 
-A copy of my CV can be found [here](./Moksh CV.pdf).
+A copy of my CV can be found [here](./MokshCV.pdf).
 
 * * *
 
