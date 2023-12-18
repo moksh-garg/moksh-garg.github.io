@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Hi, I am Moksh! I am an incoming Ph.D. student in Management with a concentration in Economic Sociology at the MIT Sloan School of Management.
-
-I previously worked as a pre-doctoral researcher at the Indian School of Business and was based out of Hyderabad, popularly known as "The City of Pearls". If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), and [presentations](./presentations.md) made. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received. 
+Hi, I am Moksh! I am a first year PhD student in Management with a concentration in Economic Sociology at the MIT Sloan School of Management. As a buddding scholar, I am interested in a multitude of research topics, primarily ones that lie at the intersection of sociology and strategy. To instantiate, I am interested in exploring how businesses reap strategic benefits through a combinatio of market and non-market repertoires. This may involve firms purposefully deviating from the established norms and performance standards to forge a robust and atypical identity, managing and controling the information environment through direct and indirect means, and advancing a "rhetoric" to their advantage. 
+ 
+I previously worked as a pre-doc at the Indian School of Business and was based out of Hyderabad, popularly known as "The City of Pearls". If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), and [presentations](./presentations.md) made. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received. 
 
 A copy of my CV can be found [here](./MokshCV.pdf).
 
