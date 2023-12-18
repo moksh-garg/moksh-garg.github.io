@@ -29,7 +29,7 @@ A copy of my CV can be found [here](./MokshCV.pdf).
 
 Are you planning for a US/European Business Ph.D. but not quite sure of how to got about it? Maybe a sneak peak into the application process will help you decide better. Even though the document is written from the Indian perspective, it should come in handy for most international applicants. You can download it [here](./PhDGuideNew.pdf).
 
-As I had written this guide before I moved to Boston, it lacks insights that I developed after I started as a PhD student in an official capacity. The last four months have been truly enlightening, to say the least, in ways that I could not have imagined. For those who are inquizitive about what the first few months of PhD look like, they might want to read my reflections here. But again, every PhD program is different, and so is our experience as a student. However, there are few things that ties us together and those are thes ones I'd focus on as part of this section.
+As I had written this guide before I moved to Boston, it lacks insights that I garnered after starting as a PhD student in an official capacity. While I am only mid way through of the first year, the last four months have been incredibly challenging yet enlightening, to say the least, in ways that I could not have ever imagined. For those who are inquizitive about what the first few months of PhD look like, they might want to read my reflections here. But again, every PhD program is different, and so is our experience as a student. However, the overarching spirit of a PhD remains to produce independent scholars, thus there are things that hold us together and those are the ones I would like to focus on as part of this section.
 
 * * *
 
