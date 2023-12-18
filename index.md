@@ -35,7 +35,7 @@ As I had written this guide before I moved to Boston, it lacks insights that I g
 
 <dl>
    <dt> Life Beyond Research :</dt>
-Well, research/work is fun, but I am sure it does not entirely describe who we are. This very well applies to me. In my leisure time, I like to do a few things to unwind and decompress myself from work. I love to cook -- I find it particularly very therapeuatic to feed yourself with good food after a long tiring day. 
+Well, research/work is fun, but I am sure it does not entirely describe who we are. This very well applies to me. In my leisure time, I like to do a few things to unwind and decompress myself from work. I love to cook -- I find it particularly very therapeuatic to feed yourself with good food after a long tiring day. While I like to try to different recipes, I am currently hooked on to pasta of almost all kinds. I am not a purist though, my version of pasta is very Indian and could a pleasant surprise for those who are up for an adventure. Here are some pictures. 
    
 </dl>
 
