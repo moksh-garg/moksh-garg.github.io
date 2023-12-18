@@ -4,7 +4,7 @@ layout: default
 
 Hi, I am Moksh! I am a first year PhD student in Management with a concentration in Economic Sociology at the MIT Sloan School of Management. As a budding scholar, I am interested in a multitude of research topics, primarily ones that lie at the intersection of sociology and strategy. 
 
-To instantiate, I am interested in exploring how businesses reap strategic benefits through a combination of market and non-market repertoires. This may involve -- first, firms purposefully deviating from the established norms and performance standards to forge a more robust and atypical identity; and second, firm managing and controlling the information environment through direct and indirect ties to drive a competitive edge. 
+To instantiate, I am interested in exploring how businesses reap strategic benefits through a combination of market and non-market repertoires. This may involve -- first, firms purposefully deviating from the established norms and performance standards to configure a more robust and atypical identity; and second, firm managing and controlling the information environment through direct and indirect ties to drive a competitive edge. 
 
 I previously worked as a pre-doc at the Indian School of Business and was based out of Hyderabad, popularly known as "The City of Pearls". If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), and [presentations](./presentations.md) made. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received. 
 
@@ -34,7 +34,7 @@ As I had written this guide before I moved to Boston, it lacks insights that I g
 * * *
 
 <dl>
-   <dt> Life Beyond Research :</dt>
+   <dt> Life Beyond Research:</dt>
 Well, research/work is fun, but it does not entirely describe who I am. In my leisure time, I like to do a few things to unwind and decompress myself from work. First and foremost, I love to cook -- I find it very therapeuatic to feed myself with homemade good food after a long tiring day. While I like to try to different recipes, I am currently hooked on to pasta of almost all kinds. My version of pasta could upset some of my Italian friends as it is very Indian in terms of how I prepare it. But, I am sure it could a pleasant surprise for those who are up for a little adventure. Here are some pictures.
 
    
