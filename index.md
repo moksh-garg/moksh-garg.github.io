@@ -35,6 +35,8 @@ As I had written this guide before I moved to Boston, it lacks insights that I g
 
 <dl>
    <dt> Life Beyond Research :</dt>
+Well, research is fun, but I am sure it does not entirely describe most academics who they are.   
+   
 </dl>
 
 * * *
