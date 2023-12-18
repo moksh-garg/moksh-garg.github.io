@@ -12,7 +12,7 @@ I previously worked as a pre-doc at the Indian School of Business and was based 
    <dt>Field of Specialization:</dt>
       <dd> Economic Sociology </dd>
     <dt>Areas of Interest:</dt>
-      <dd> Strategy, Organizational Theory, Quantitative Sociology, Field Experiments </dd>
+      <dd> Strategy, Organizational Theory, Quantitative Sociology, Field Experiment </dd>
    <dt>Areas of Competence:</dt>
       <dd> Econometrics, Causal Inference, Text Analysis </dd>
     <dt> Software & Applications:</dt>
