@@ -4,8 +4,9 @@ layout: default
 
 Hi, I am Moksh! I am a first year PhD student in Management with a concentration in Economic Sociology at the MIT Sloan School of Management. As a budding scholar, I am interested in a multitude of research topics, primarily ones that lie at the intersection of sociology and strategy. 
 
-To instantiate, I am interested in exploring how businesses reap strategic benefits through a combination of market and non-market repertoires. This may involve firms purposefully deviating from the established norms and performance standards to forge a more robust and atypical identity and also managing and controlling the information environment through direct and indirect channels to further a favorable rhetoric. 
+To instantiate, I am interested in exploring how businesses reap strategic benefits through a combination of market and non-market repertoires. This may involve -- first, firms purposefully deviating from the established norms and performance standards to forge a more robust and atypical identity; and second, firm managing and controlling the information environment through direct and indirect ties to drive a competitive edge. 
 
+I previously worked as a pre-doc at the Indian School of Business and was based out of Hyderabad, popularly known as "The City of Pearls". If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), and [presentations](./presentations.md) made. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received. 
 
 <dl>
    <dt>Field of Specialization:</dt>
@@ -16,10 +17,7 @@ To instantiate, I am interested in exploring how businesses reap strategic benef
       <dd> Econometrics, Causal Inference, Text Analysis </dd>
     <dt> Software & Applications:</dt>
       <dd> STATA, Python, R, MAXQDA, Pajek, Tableau </dd>
-  
 </dl>
- 
-I previously worked as a pre-doc at the Indian School of Business and was based out of Hyderabad, popularly known as "The City of Pearls". If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), and [presentations](./presentations.md) made. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received. 
 
 A copy of my CV can be found [here](./MokshCV.pdf).
 
@@ -30,6 +28,14 @@ A copy of my CV can be found [here](./MokshCV.pdf).
 </dl>
 
 Are you planning for a US/European Business Ph.D. but not quite sure of how to got about it? Maybe a sneak peak into the application process will help you decide better. Even though the document is written from the Indian perspective, it should come in handy for most international applicants. You can download it [here](./PhDGuideNew.pdf).
+
+As I had written this guide before I moved to Boston, it lacks insights that I developed after I started as a PhD student in an official capacity. The last four months have been truly enlightening, to say the least, in ways that I could not have imagined. For those who are inquizitive about what the first few months of PhD look like, they might want to read my reflections here. But again, every PhD program is different, and so is our experience as a student. However, there are few things that ties us together and those are thes ones I'd focus on as part of this section.
+
+* * *
+
+<dl>
+   <dt> Life Beyond Research :</dt>
+</dl>
 
 * * *
 
