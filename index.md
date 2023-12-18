@@ -5,6 +5,19 @@ layout: default
 Hi, I am Moksh! I am a first year PhD student in Management with a concentration in Economic Sociology at the MIT Sloan School of Management. As a buddding scholar, I am interested in a multitude of research topics, primarily ones that lie at the intersection of sociology and strategy. 
 
 To instantiate, I am interested in exploring how businesses reap strategic benefits through a combinatio of market and non-market repertoires. This may involve firms purposefully deviating from the established norms and performance standards to forge a more robust and atypical identity and managing and controlling the information environment through direct and indirect channels to advance a favorable rhetoric. 
+
+
+<dl>
+   <dt>Field of Specialization:</dt>
+      <dd> Economic Sociology </dd>
+    <dt>Areas of Interest:</dt>
+      <dd> Strategy, Organizational Theory, Quantitative Sociology, Field Experiments </dd>
+   <dt>Areas of Competence:</dt>
+      <dd> Econometrics, Causal Inference, Text Analysis </dd>
+    <dt> Software & Applications:</dt>
+      <dd> STATA, Python, R, MAXQDA, Pajek, Tableau </dd>
+  
+</dl>
  
 I previously worked as a pre-doc at the Indian School of Business and was based out of Hyderabad, popularly known as "The City of Pearls". If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), and [presentations](./presentations.md) made. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received. 
 
@@ -17,22 +30,6 @@ A copy of my CV can be found [here](./MokshCV.pdf).
 </dl>
 
 Are you planning for a US/European Business Ph.D. but not quite sure of how to got about it? Maybe a sneak peak into the application process will help you decide better. Even though the document is written from the Indian perspective, it should come in handy for most international applicants. You can download it [here](./PhDGuideNew.pdf).
-
-* * *
-
-Owing to my inquisitive nature, I am interested in a wide range of topics. I am fascinated by the sociological construction of markets and plan to investigate how social institutions - such as family, kinship, caste, community, and religion - shape economic behavior and outcomes. I am also interested in analyzing organizations as vehicles for socially purposive action and explaining how they may collaborate with a wide range of traditional and non-traditional stakeholders to activate and exercise collective agency.  
-
-<dl>
-   <dt>Field of Specialization:</dt>
-      <dd> Economic Sociology </dd>
-    <dt>Areas of Interest:</dt>
-      <dd> Organizational Theory, Institutional Strategy, Quantitative Sociology, Field Experiments </dd>
-   <dt>Areas of Competence:</dt>
-      <dd> Econometrics, Causal Inference, Text Analysis </dd>
-    <dt> Software & Applications:</dt>
-      <dd> STATA, Python, R, MAXQDA, Pajek, Tableau </dd>
-  
-</dl>
 
 * * *
 
