@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Hi, I am Moksh! I am a first year PhD student in Management with a concentration in Economic Sociology at the MIT Sloan School of Management. As a buddding scholar, I am interested in a multitude of research topics, primarily ones that lie at the intersection of sociology and strategy. 
+Hi, I am Moksh! I am a first year PhD student in Management with a concentration in Economic Sociology at the MIT Sloan School of Management. As a budding scholar, I am interested in a multitude of research topics, primarily ones that lie at the intersection of sociology and strategy. 
 
-To instantiate, I am interested in exploring how businesses reap strategic benefits through a combination of market and non-market repertoires. This may involve firms purposefully deviating from the established norms and performance standards to forge a more robust and atypical identity and managing and controlling the information environment through direct and indirect channels to advance a favorable rhetoric. 
+To instantiate, I am interested in exploring how businesses reap strategic benefits through a combination of market and non-market repertoires. This may involve firms purposefully deviating from the established norms and performance standards to forge a more robust and atypical identity and also managing and controlling the information environment through direct and indirect channels to further a favorable rhetoric. 
 
 
 <dl>
