@@ -5,7 +5,7 @@ layout: default
 # Employment
 
 <dl>
-   <dt>Research Associate</dt>
+   <dt>Pre-doctoral Researcher</dt>
       <dd>July 2021 – July 2023; Thomas Schmidhieny Centre for Family Enterprises, Indian School of Business, Worked for Prof. Sougata Ray & Prof. Kavil Ramachandran </dd>
    <dt>Research Associate</dt>
       <dd>June 2021 – December 2021; Indian Institute of Management Ahmedabad; Worked for Prof. Promila Agarwal </dd>
