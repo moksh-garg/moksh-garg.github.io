@@ -1,5 +1,5 @@
 
-Humayun's Tomb: Constructed circa 1570, it is a massiv tomb with over 150 Mughals burried inside. 
+Humayun's Tomb: Constructed circa 1570, it is a massive structure with over 150 Mughals burried inside. 
 ![Humayun's Tomb](/assets/img/image1.jpg)
 
 
