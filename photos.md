@@ -1,3 +1,3 @@
 
-![Book logo](/assets/img/amb_spiceestew_2.png.jpg)
+![Humayun's Tomb](/assets/img/image1.jpg)
 
