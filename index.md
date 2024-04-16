@@ -16,6 +16,7 @@ I previously worked as a pre-doc at the Indian School of Business and was based 
   + [Self: Institution vs Impulse](./reflection2.md)
   + [Organizations and Employee Control](./reflection3.md)
   + [Institutional Theory Revisited](./reflection4.md)
+  + [Organizational Identity and Strategy](./reflection5.md)
 
 * * *
 
