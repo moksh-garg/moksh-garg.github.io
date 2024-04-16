@@ -1,3 +1,5 @@
+# Organizations and Employee Control
+
 I am confronted with a set of paradoxes that explain my ambivalence and for the most part my critical outlook towards organizations,
 particularly if analyzed from the labor standpoint.
 
