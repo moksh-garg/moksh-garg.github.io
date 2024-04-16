@@ -38,7 +38,10 @@ Are you planning for a US/European Business Ph.D. but not quite sure of how to g
    
 * * *
 
-# News
+<dl>
+   <dt> News:</dt>
+</dl>
+
 + 11/05/2023: [“ESG and Stakeholder Capitalism: Seeking Value for All”](https://www.outlookindia.com/business/esg-and-stakeholder-capitalism-seeking-value-for-all-news-284879) (Outlook India)
 + 15/03/2022: [“Numbers & Beyond: Gender Equity in Corporate India at Board Level”](https://www.financialexpress.com/education-2/numbers-and-beyond-gender-equity-in-corporate-india-at-board-level/2458723/) (Financial Express)
 + 09/02/2022: [“Glass Ceiling: Research Report on Leadership Gender Balance in NSE 200 Companies”](http://vslir.iima.ac.in:8080/jspui/handle/11718/24912) (IIMA ESG Centre for Research and Innovation)
@@ -54,7 +57,9 @@ Are you planning for a US/European Business Ph.D. but not quite sure of how to g
 
 * * *
 
-# Get in Touch
+<dl>
+   <dt> Get in Touch:</dt>
+</dl>
 
 If you want to get in touch, you can reach me at any time via email : mokshg@mit.edu
 
@@ -62,5 +67,5 @@ On the internet, there are also some other places where you can find me, includi
 + [LinkedIn](https://www.linkedin.com/in/mokshgarg/)
 + [Quora](https://www.quora.com/profile/Moksh-Garg-3)
 + [Twitter](https://twitter.com/moksh_grg)
-+ [Indian School Of Business](https://www.isb.edu/en/research-thought-leadership/research-centres-institutes/thomas-schmidheiny-centre-for-family-enterprise/people/team/moksh-garg.html)
++ [MIT Sloan](https://mitsloan.mit.edu/programs/phd/moksh-garg)
 
