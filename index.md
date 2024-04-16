@@ -6,6 +6,19 @@ Hi, I am Moksh! I am a first year PhD student in Management with a concentration
 
 I previously worked as a pre-doc at the Indian School of Business and was based out of Hyderabad, popularly known as "The City of Pearls". If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), and [presentations](./presentations.md) made. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received. 
 
+* * *
+
+<dl>
+   <dt> Reflections:</dt> 
+</dl>
+
+  + [Self as Network](./reflection1.md)
+  + [Self: Institution vs Impulse](./reflection2.md)
+  + [Organizations and Employee Control](./reflection3.md)
+  + [Institutional Theory Revisited](./reflection4.md)
+
+* * *
+
 <dl>
    <dt>Field of Specialization:</dt>
       <dd> Economic Sociology </dd>
@@ -26,17 +39,6 @@ A copy of my CV can be found [here](./MokshCV.pdf).
 </dl>
 
 Are you planning for a US/European Business Ph.D. but not quite sure of how to got about it? Maybe a sneak peak into the application process will help you decide better. Even though the document is written from the Indian perspective, it should come in handy for most international applicants. You can download it [here](./PhDGuideNew.pdf).
-
-* * *
-
-<dl>
-   <dt> Reflections:</dt> 
-</dl>
-
-  + [Self as Network](./reflection1.md)
-  + [Self: Institution vs Impulse](./reflection2.md)
-  + [Organizations and Employee Control](./reflection3.md)
-  + [Institutional Theory Revisited](./reflection4.md)
 
 * * *
 
