@@ -1,3 +1,4 @@
+# Self: Institution vs Impulse
 
 The paper The Real Self: From Institution to Impulse by Ralph Turner (1961) delves into the varying interpretations of the “real self ”. Turner
 identifies and juxtaposes two important perspectives: the “institutionalist” view, where the real
