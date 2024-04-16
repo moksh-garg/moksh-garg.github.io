@@ -37,6 +37,7 @@ Are you planning for a US/European Business Ph.D. but not quite sure of how to g
   + [Self: Institution vs Impulse](./reflection2.md)
   + [Organizations and Employee Control](./reflection3.md)
   + [Institutional Theory Revisited](./reflection4.md)
+
 * * *
 
 <dl>
