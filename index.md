@@ -34,6 +34,7 @@ Are you planning for a US/European Business Ph.D. but not quite sure of how to g
 </dl>
 
   + [Self as a Network](./reflection1.md)
+  + [Self: Instituion vs Impulse](./reflection2.md)
    
 * * *
 
