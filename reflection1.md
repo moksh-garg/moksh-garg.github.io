@@ -1,6 +1,6 @@
 
 
-# Self as a Network 
+# Self as Network 
 
 Roger Gould in his book "Collision of Wills", specifically chapter "Honor and the Individual", introduces an alternate approach to understanding the
 self. He proposes to conceptualize the self as a bundle of momentary selves that transcend both
