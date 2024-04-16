@@ -29,17 +29,12 @@ A copy of my CV can be found [here](./MokshCV.pdf).
 
 Are you planning for a US/European Business Ph.D. but not quite sure of how to got about it? Maybe a sneak peak into the application process will help you decide better. Even though the document is written from the Indian perspective, it should come in handy for most international applicants. You can download it [here](./PhDGuideNew.pdf).
 
-As I had written this guide before I moved to Boston, it lacks insights that I garnered after starting PhD in an official capacity. While I am only mid way through the first year, the last four months have been incredibly challenging yet enlightening, to say the least, in ways that I could not have ever imagined. For those who are inquizitive about what the first few months of PhD look like, they might want to read my reflections here. But again, every PhD program is different, and so is our experience as a student. However, the overarching spirit of a PhD remains to produce independent scholars, thus there are things that hold us together and put us in the same boat. Those are the ones I focus on as part of this section.
-
 * * *
 
 <dl>
-   <dt> Life Beyond Research:</dt>
+   <dt> Reflections:</dt>
 </dl>
 
-Well, research/work is fun, but it does not entirely describe who I am. In my leisure time, I like to do a few things to unwind and decompress myself from work. First and foremost, I love to cook -- I find it very therapeuatic to feed myself with homemade good food after a long tiring day. While I like to try to different recipes, I am currently hooked on to pasta of almost all kinds. My version of pasta could upset some of my Italian friends as it is very Indian in terms of how I prepare it with an aromatic concoction of various India herbs and spices. That said, I am sure it will be a pleasant surprise for those who are up for a little adventure. Here are some pictures for you to see.
-
-I am also fond of exercising. I like to hit the gym a couple of days every week to keep my muscles moving. It helps me big time get rid of the mental exhaustion and have quality sleep afterward. Not to forget, I also like to explore places of historical relevance and [here](./photos.md) are some that I have captured. 
    
 * * *
 
