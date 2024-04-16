@@ -54,16 +54,6 @@ Are you planning for a US/European Business Ph.D. but not quite sure of how to g
 
 * * *
 
-# Mentors & Collaborators
-
-The great people from I had the pleasure to seek mentorship and with whom I have worked or am currently working include (in alphabetical order):
-+ [Deepak Jena](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/deepak-jena.html) (Indian School of Business)
-+ [Promila Agarwal](https://www.iima.ac.in/web/faculty/faculty-profiles/promila-agarwal) (Indian Institute of Management Ahmedabad)
-+ [Kavil Ramachandran](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/kavil-ramachandran.html) (Indian School of Business)
-+ [Sougata Ray](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/sougata-ray.html) (Indian School of Business)
-
-* * *
-
 # Get in Touch
 
 If you want to get in touch, you can reach me at any time via email : mokshg@mit.edu
