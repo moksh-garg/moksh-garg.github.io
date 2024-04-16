@@ -33,6 +33,7 @@ standards.
 
 While the discussion on institutional and impulsive self is certainly fascinating, I do not
 find it necessarily very productive because of the reasons below:
+
 • The presumption that institution and impulse are antithetical to each other is question-
 able on multiple grounds. Here I can think of many plausible scenarios where both are
 coincident: first, a person being impulsive but within permissible institutional bound-
