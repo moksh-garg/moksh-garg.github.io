@@ -1,4 +1,4 @@
-
+# Organizational Identity and Strategy
 
 In this reflection, I elaborate on Zuckerman (2000) and Carroll and Swaminathan (2000)
 and how both these papers highlight the importance of a salient, distinctive, and carefully
