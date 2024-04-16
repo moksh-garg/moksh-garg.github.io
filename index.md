@@ -30,10 +30,10 @@ Are you planning for a US/European Business Ph.D. but not quite sure of how to g
 * * *
 
 <dl>
-   <dt> Reflections:</dt>
-     <dd> [Self as a Network](./reflection1.md) </dd>
+   <dt> Reflections:</dt> 
 </dl>
 
+  + [Self as a Network](./reflection1.md)
    
 * * *
 
