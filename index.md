@@ -17,7 +17,13 @@ I previously worked as a pre-doc at the Indian School of Business and was based 
   + [Organizations and Employee Control](./reflection3.md)
   + [Institutional Theory Revisited](./reflection4.md)
   + [Organizational Identity and Strategy](./reflection5.md)
+  + 
+<dl>
+   <dt> Recent Presentations:</dt> 
+</dl>
 
+  + [The Effect of Gender Diversity Mandates on Firm
+Performance: Evidence from India](./17802_Garg.pdf)
 * * *
 
 <dl>
