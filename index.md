@@ -23,7 +23,7 @@ I previously worked as a pre-doc at the Indian School of Business and was based 
 </dl>
 
   + [The Effect of Gender Diversity Mandates on Firm
-Performance: Evidence from India](./17802_Garg.pdf)
+Performance: Evidence from India](./Revised_PPT.pdf)
 
 * * *
 
