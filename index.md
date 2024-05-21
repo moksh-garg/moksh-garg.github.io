@@ -22,8 +22,8 @@ I previously worked as a pre-doc at the Indian School of Business and was based 
    <dt> Recent Presentations:</dt> 
 </dl>
 
-  + [The Effect of Gender Diversity Mandates on Firm
-Performance: Evidence from India](./Revised_PPT.pdf)
+  + The Effect of Gender Diversity Mandates on Firm
+Performance: Evidence from India [PPT](./Revised_PPT.pdf) [Paper](./term_paper.pdf)
 
 * * *
 
