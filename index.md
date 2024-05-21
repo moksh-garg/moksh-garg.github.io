@@ -38,7 +38,7 @@ Performance: Evidence from India](./Revised_PPT.pdf)
       <dd> STATA, Python, R, MAXQDA, Pajek, Tableau </dd>
 </dl>
 
-A copy of my CV can be found [here](./MokshCV.pdf).
+A copy of my CV can be found [here](./cv_garg.pdf).
 
 * * *
 
