@@ -52,5 +52,6 @@ Planning to apply for a PhD in Business in the US or Europe but not sure where t
 <dl>
    <dt> Get in Touch:</dt>
 </dl>
+
 I can be reached via email: mokshg@mit.edu, as well as [LinkedIn](https://www.linkedin.com/in/mokshgarg/) and [Twitter](https://twitter.com/moksh_grg)
 
