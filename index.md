@@ -4,7 +4,7 @@ layout: default
 
 Hi, I’m Moksh! I’m a second-year PhD student in Management, with a concentration in Economic Sociology, at the MIT Sloan School of Management. My research interests lie at the intersection of entrepreneurship, labor markets, and development. Prior to joining MIT, I worked as a pre-doctoral fellow at the Indian School of Business, based in Hyderabad.
 
-If you’d like to know more about me, feel free to explore the following sections: [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), and [presentations](./presentations.md) made. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received. 
+If you’d like to know more about me, feel free to explore the following sections: [educational background](./education.md), [prior employment and memberships](./employment.md), [published work](./publications.md), and [presentations](./presentations.md) made. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received. 
 
 * * *
 <dl>
