@@ -2,16 +2,18 @@
 layout: default
 ---
 
-Hi, I am Moksh! I am a first year PhD student in Management with a concentration in Economic Sociology at the MIT Sloan School of Management. As a budding scholar, I am interested in a multitude of research topics, primarily ones that lie at the intersection of sociology and strategy. 
+Hi, I’m Moksh!
 
-I previously worked as a pre-doc at the Indian School of Business and was based out of Hyderabad, popularly known as "The City of Pearls". If you want to know more about me, feel free to take a look at my [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), and [presentations](./presentations.md) made. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received. 
+I’m a second-year PhD student in Management, with a concentration in Economic Sociology, at the MIT Sloan School of Management. My research interests lie at the intersection of entrepreneurship, labor markets, and development. Prior to joining MIT, I worked as a pre-doctoral fellow at the Indian School of Business, based in Hyderabad.
+
+If you’d like to know more about me, feel free to explore the following sections: [educational background](./education.md), [professional affiliations](./employment.md), [published works](./publications.md), and [presentations](./presentations.md) made. There is also information regarding my [service](./services.md) to the community and [research grants and academic honors](./financials.md) that I have received. 
 
 * * *
 <dl>
     <dt> Research Interests:</dt>
       <dd> Entrepreneurship, Labor Markets, Development </dd>
-   <dt> Methods:</dt>
-      <dd> Econometrics, Causal Inference, Experiments </dd>
+   <dt> Committee Members:</dt>
+      <dd> Ezra Zuckerman, Emilio Castilla, Fiona Murray </dd>
     <dt> Software & Applications:</dt>
       <dd> STATA, Python, R, MAXQDA, Pajek, Tableau </dd>
 </dl>
