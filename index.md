@@ -13,7 +13,7 @@ If you’d like to know more about me, feel free to explore the following sectio
     <dt> Research Interests:</dt>
       <dd> Entrepreneurship, Labor Markets, Development </dd>
    <dt> Committee Members:</dt>
-      <dd> Ezra Zuckerman, Emilio Castilla, Fiona Murray </dd>
+      <dd> Ezra Zuckerman, Emilio Castilla, Fiona Murray, Rem Koning </dd>
     <dt> Software & Applications:</dt>
       <dd> STATA, Python, R, MAXQDA, Pajek, Tableau </dd>
 </dl>
