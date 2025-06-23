@@ -6,7 +6,9 @@ layout: default
 
 <dl>
    <dt>Doctor of Philosophy (Management/Economic Sociology)</dt>
-      <dd>September 2023 – ; <a href='https://mitsloan.mit.edu/phd/program-overview/esp'>MIT Sloan School of Management</a>
+      <dd> Expected May 2028 ; <a href='https://mitsloan.mit.edu/phd/program-overview/esp'>MIT Sloan School of Management</a>
+   <dt> SM in Management Research </dt>
+      <dd> Expected September 2025 
    <dt>Master of Business Administration (General Management)</dt>
       <dd>June 2017 – March 2019; <a href='https://www.iima.ac.in/'>Indian Institute of Management Ahmedabad</a>
    <dt>Bachelor of Management Studies (Finance)</dt>
