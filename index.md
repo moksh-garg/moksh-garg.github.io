@@ -23,10 +23,10 @@ A copy of my CV can be found [here](./cv_garg.pdf).
 * * *
 
 <dl>
-   <dt>Unofficial Guide for the Indian Business Ph.D. Applicants:</dt>
+   <dt>Unofficial Guide for the Business Ph.D. Applicants:</dt>
 </dl>
 
-Are you planning for a US/European Business Ph.D. but not quite sure of how to got about it? Maybe a sneak peak into the application process will help you decide better. Even though the document is written from the Indian perspective, it should come in handy for most international applicants. You can download it [here](./PhDGuideNew.pdf).
+Planning to apply for a PhD in Business in the US or Europe but not sure where to start? A behind-the-scenes look at the application process might help you decide. While this document is written from an Indian applicant’s perspective, much of the advice should be useful for international applicants more broadly. You can view and download it [here](https://www.dropbox.com/scl/fi/hbd9z98uacqf4dvuamlyx/PhDGuide_Garg_Mahanti.pdf?rlkey=ouep4w3k3x9axvjdoe5fwup3k&st=qsni6wab&dl=0).
 
 * * *
 
@@ -52,12 +52,5 @@ Are you planning for a US/European Business Ph.D. but not quite sure of how to g
 <dl>
    <dt> Get in Touch:</dt>
 </dl>
-
-If you want to get in touch, you can reach me at any time via email : mokshg@mit.edu
-
-On the internet, there are also some other places where you can find me, including:
-+ [LinkedIn](https://www.linkedin.com/in/mokshgarg/)
-+ [Quora](https://www.quora.com/profile/Moksh-Garg-3)
-+ [Twitter](https://twitter.com/moksh_grg)
-+ [MIT Sloan](https://mitsloan.mit.edu/programs/phd/moksh-garg)
+I can be reached via email: mokshg@mit.edu, as well as [LinkedIn](https://www.linkedin.com/in/mokshgarg/) and [Twitter](https://twitter.com/moksh_grg)
 
