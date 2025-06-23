@@ -6,8 +6,8 @@ layout: default
 
 
 ## Presentations as a PhD Student
-+ Garg, M. & Castilla, EJ. (2025, June 30). Cracks of opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. HEC RICE Organizational Underworld Conference, Paris, France.
-+ Garg, M. & Castilla, EJ. (2025, June 7). Cracks of opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. Equitable Opportunity Conference, Boston, USA.
++ Garg, M. & Castilla, EJ. (2025, June 30 - July 2). Cracks of opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. HEC RICE Organizational Underworld Conference, Paris, France.
++ Garg, M. & Castilla, EJ. (2025, June 6-7). Cracks of opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. Equitable Opportunity Conference, Boston, USA.
 + Garg, M. & Castilla, EJ. (2025, February 26). Cracks of opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. MIT Economic Sociology Working Group, Boston, USA.
   
 ## Presentations as a Pre-doc
