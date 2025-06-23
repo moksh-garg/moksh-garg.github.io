@@ -23,7 +23,7 @@ A copy of my CV can be found [here](./cv_garg.pdf).
 * * *
 
 <dl>
-   <dt>Unofficial Guide for the Business Ph.D. Applicants:</dt>
+   <dt>Unofficial Guide for Prospective Business Ph.D. Applicants:</dt>
 </dl>
 
 Planning to apply for a PhD in Business in the US or Europe but not sure where to start? A behind-the-scenes look at the application process might help you decide. While this document is written from an Indian applicant’s perspective, much of the advice should be useful for international applicants more broadly. You can view and download it [here](https://www.dropbox.com/scl/fi/hbd9z98uacqf4dvuamlyx/PhDGuide_Garg_Mahanti.pdf?rlkey=ouep4w3k3x9axvjdoe5fwup3k&st=qsni6wab&dl=0).
