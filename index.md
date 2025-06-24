@@ -16,7 +16,6 @@ If you’d like to know more about me, feel free to explore the following sectio
       <dd> STATA, Python, R, MAXQDA, Pajek, Tableau </dd>
 </dl>
 
-A copy of my CV can be found [here](./cv_garg.pdf).
 
 * * *
 
