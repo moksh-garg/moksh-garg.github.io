@@ -18,6 +18,7 @@ layout: default
 # Memberships
 
 <dl>
+      <dd>Harvard Tech For All Lab</dd>
       <dd>Academy of Management</dd>
       <dd>Organization and Management Theory Division</dd>
       <dd>Strategic Management Division</dd>
