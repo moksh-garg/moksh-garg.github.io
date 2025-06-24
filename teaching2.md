@@ -5,11 +5,11 @@ layout: default
 # Teaching Experience
 
 <dl>
-   <dt> 15.394 Entrepreneurial Founding and Teams, Professor Erin Scott </dt>
+   <dt> 15.394 Entrepreneurial Founding and Teams</dt> , Professor Erin Scott
       <dd> September 2025 - December 2025, MIT Sloan </dd>
-   <dt> 15.715 Entrepreneurial Strategy, Professors Scott Stern and Erin Scott, Rated 6.59/7.00 </dt>
+   <dt> 15.715 Entrepreneurial Strategy </dt> , Professors Scott Stern and Erin Scott, *Rated 6.59/7.00* 
       <dd> January 2025, MIT Sloan </dd>
-   <dt> 15.S61 Organizational Processes, Professor Erin Kelly, Rated 6.56/7.00 </dt>
+   <dt> 15.S61 Organizational Processes </dt> , Professor Erin Kelly, *Rated 6.56/7.00*
       <dd> July 2024 - August 2024; MIT Sloan </dd>
 </dl>
 
