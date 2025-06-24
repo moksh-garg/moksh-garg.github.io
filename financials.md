@@ -4,6 +4,8 @@ layout: default
 
 # Grants and Honors
 
++ Adam Smith Fellowship (2025-26; Mercatus Centre; USD 3,500; Not Availed)
++ Adam Smith Fellowship (2024-25; Mercatus Centre; USD 10,000; Not Availed Fully)
 + MIT Sloan Fellowship (2023-29; MIT)
 + All India Rank 1 and Junior Research Fellowship (2020; Ministry of Education, University Grants Commission; USD 21,000; Not Availed) 
 + Merit Scholar Fellowships (2019; Indian Institute of Management Ahmedabad; USD 11,000) 
