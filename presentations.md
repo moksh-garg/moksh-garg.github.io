@@ -4,6 +4,7 @@ layout: default
 
 # Presentations
 
+![MG_HEC](/assets/img/mg_hec.jpg)
 
 ## Presentations as a PhD Student
 + Garg, M. & Castilla, EJ. (2025, June 30 - July 2). Cracks of opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. HEC RICE Organizational Underworld Conference, Paris, France.
