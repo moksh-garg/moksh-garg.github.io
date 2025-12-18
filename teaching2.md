@@ -5,6 +5,8 @@ layout: default
 # Teaching Experience
 
 <dl>
+    <dt> 15.701 Innovation-Driven Entrepreneurial Advantage (IDEA) Week, Professors Fiona Murray and Phil Budden </dt>
+      <dd> March 2026, MIT Sloan </dd>
    <dt> 15.394 Entrepreneurial Founding and Teams, Professor Erin Scott </dt>
       <dd> September 2025 - December 2025, MIT Sloan </dd>
    <dt> 15.715 Entrepreneurial Strategy, Professors Scott Stern and Erin Scott, Rated 6.59/7.00 </dt>
