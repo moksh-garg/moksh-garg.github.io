@@ -7,8 +7,11 @@ layout: default
 ![MG_HEC](/assets/img/mg_hec.jpg)
 
 ## Presentations as a PhD Student
-+ Garg, M. & Castilla, EJ. (2026, March 31). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. MIT Institute of Work and Employment Research Seminor, Boston, USA.
-+ Garg, M. & Castilla, EJ. (2025, September 19-20). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. People & Organizations Conference, Philadelphia, USA.
++ Garg, M. (2026, Sep 25-26). Moved to Found? Gender, Startup Entry, and Entrepreneurial Careers. 19th People & Organizations Conference, Philadelphia, USA.
++ Garg, M. & Castilla, EJ. (2026, Aug 9). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. 121st American Sociological Association Conference, New York, USA.
++ Garg, M. & Castilla, EJ. (2026, Aug 4). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. 86th Academy of Management Conference,Philadelphia, USA.
++ Garg, M. & Castilla, EJ. (2026, March 31). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. MIT Institute of Work and Employment Research Seminar, Boston, USA.
++ Garg, M. & Castilla, EJ. (2025, September 19-20). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. 18th People & Organizations Conference, Philadelphia, USA.
 + Garg, M. & Castilla, EJ. (2025, September 10). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. INSPER Brown Bag, Virtual. 
 + Garg, M. & Castilla, EJ. (2025, June 30 - July 2). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. HEC RICE Organizational Underworld Conference, Paris, France.
 + Garg, M. & Castilla, EJ. (2025, June 6-7). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. Equitable Opportunity Conference, Boston, USA.
