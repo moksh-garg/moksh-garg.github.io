@@ -250,6 +250,68 @@ blockquote {
   color: var(--muted);
 }
 
+
+.paper-entry {
+  padding: 34px 0 42px;
+  border-bottom: 1px solid var(--line);
+}
+
+.paper-entry:first-of-type { padding-top: 0; }
+
+.paper-kicker {
+  margin: 0 0 8px;
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.paper-entry h2 {
+  max-width: 850px;
+  margin: 0 0 22px;
+  font-size: clamp(25px, 3vw, 34px);
+  line-height: 1.25;
+}
+
+.paper-abstract {
+  max-width: 830px;
+}
+
+.paper-abstract summary {
+  width: fit-content;
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.paper-abstract[open] summary { margin-bottom: 18px; }
+
+.paper-abstract p {
+  color: #3f4246;
+  font-size: 16px;
+}
+
+.publication-section {
+  padding-top: 52px;
+}
+
+.publication-section h2 {
+  margin: 0 0 24px;
+  font-size: 27px;
+}
+
+.publication-list {
+  max-width: 850px;
+}
+
+.publication-list p {
+  padding: 0 0 18px;
+  margin: 0 0 18px;
+  border-bottom: 1px solid rgba(229, 225, 219, 0.75);
+}
+
 @media (max-width: 760px) {
   body { font-size: 16px; }
 
