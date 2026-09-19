@@ -7,7 +7,6 @@ title: Presentations
 
 <div class="presentations-hero">
   <p class="presentation-intro">
-    Selected conference, workshop, and seminar presentations of my research.
   </p>
   <img class="presentation-photo" src="/assets/img/mg_hec.jpg" alt="Moksh Garg presenting research at HEC Paris">
 </div>
