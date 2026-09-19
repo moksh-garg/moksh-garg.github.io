@@ -17,13 +17,26 @@ title: Moksh Garg
     <div class="link-row">
       <a href="./publications.html">View research →</a>
       <a href="./presentations.html">Presentations →</a>
-      <a href="mailto:mokshg@mit.edu">mokshg@mit.edu</a>
     </div>
   </div>
-  <div class="hero-photo">
+  <aside class="profile-sidebar">
     <img class="profile-photo" src="{{ '/assets/img/DSC_0617.JPG' | relative_url }}" alt="Portrait of Moksh Garg">
-    <p class="profile-caption"></p>
-  </div>
+
+    <div class="profile-detail">
+      <span>Research Areas</span>
+      <p>Startups and Labor Markets<br>Organizations, Careers, and Inequality</p>
+    </div>
+
+    <div class="profile-detail">
+      <span>Contact</span>
+      <p><a href="mailto:mokshg@mit.edu">mokshg@mit.edu</a></p>
+    </div>
+
+    <div class="profile-detail">
+      <span>LinkedIn</span>
+      <p><a href="https://www.linkedin.com/in/mokshgarg/">linkedin.com/in/mokshgarg</a></p>
+    </div>
+  </aside>
 </section>
 
 <section class="content-section">
