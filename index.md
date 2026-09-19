@@ -9,7 +9,7 @@ title: Moksh Garg
     <h1>Moksh Garg</h1>
     <p class="hero-title">PhD Candidate in Management<br>MIT Sloan School of Management</p>
     <div class="hero-copy">
-      <p>As an economic sociologist, I study startups, labor markets, and development. One stream examines how startups acquire talent and why some face greater constraints in doing so. Another examines how organizational processes and practices affect the career trajectories of workers, especially for those from marginalized backgrounds. </p>
+      <p> I am an economic sociologist, and my research spans entrepreneurship, labor markets, and development. One stream examines how startups acquire talent and why some face greater constraints in doing so. Another examines how organizational processes and practices affect the career trajectories of workers, especially for those from marginalized backgrounds. </p>
       <p> I'm currently advised by Professors Ezra Zuckerman Sivan, Emilio Castilla, and Fiona Murray. </p>
        <p> Beyond research, I train and compete with the <a href="https://ballroom.mit.edu/">MIT Ballroom Dance Team</a>. </p>
       
