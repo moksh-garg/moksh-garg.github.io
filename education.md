@@ -10,11 +10,11 @@ title: CV
 
   <div class="cv-entry">
     <div><strong>Doctor of Philosophy in Management (Economic Sociology)</strong><span><a href="https://mitsloan.mit.edu/phd/program-overview/esp">MIT Sloan School of Management</a></span></div>
-    <time>Expected May 2028</time>
+    <time>2023–2028e</time>
   </div>
   <div class="cv-entry">
     <div><strong>SM in Management Research</strong><span><a href="https://mitsloan.mit.edu/phd/program-overview/esp">MIT Sloan School of Management</a></span></div>
-    <time>February 2026</time>
+    <time>2023–2026</time>
   </div>
   <div class="cv-entry">
     <div><strong>Master of Business Administration</strong><span><a href="https://www.iima.ac.in/">Indian Institute of Management Ahmedabad</a></span></div>
