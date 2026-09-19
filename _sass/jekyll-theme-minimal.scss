@@ -532,6 +532,31 @@ blockquote {
   font-size: 16px;
 }
 
+
+.dance-feature {
+  max-width: 900px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 300px;
+  gap: 56px;
+  align-items: start;
+}
+
+.dance-feature h2 {
+  margin: 0 0 22px;
+  font-size: 30px;
+}
+
+.dance-feature p {
+  margin: 0 0 20px;
+}
+
+.dance-feature img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 3px;
+}
+
 @media (max-width: 760px) {
   body { font-size: 16px; }
 
@@ -574,6 +599,15 @@ blockquote {
   .course-entry { grid-template-columns: 1fr; gap: 10px; }
 
   .course-details { align-items: flex-start; }
+
+  .dance-feature {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+
+  .dance-feature img {
+    width: min(100%, 320px);
+  }
 
   .site-footer > div { padding-left: 20px; padding-right: 20px; }
 }
