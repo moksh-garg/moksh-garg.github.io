@@ -341,11 +341,29 @@ blockquote {
 }
 
 
-.presentation-intro {
-  max-width: 700px;
+.presentations-hero {
+  max-width: 900px;
   margin: -18px 0 48px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 210px;
+  gap: 46px;
+  align-items: center;
+}
+
+.presentation-intro {
+  max-width: 620px;
+  margin: 0;
   color: var(--muted);
   font-size: 18px;
+}
+
+.presentation-photo {
+  width: 210px;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 3px;
+  filter: saturate(0.92);
 }
 
 .presentation-project {
@@ -446,6 +464,13 @@ blockquote {
   .section-grid { grid-template-columns: 1fr; gap: 24px; }
 
   .news-list li { grid-template-columns: 1fr; gap: 3px; }
+
+  .presentations-hero {
+    grid-template-columns: 1fr;
+    gap: 22px;
+  }
+
+  .presentation-photo { width: 170px; }
 
   .venue-list li,
   .earlier-entry { grid-template-columns: 1fr; gap: 3px; }
