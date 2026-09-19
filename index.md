@@ -28,17 +28,14 @@ title: Moksh Garg
   <div class="section-grid">
     <h2>Research</h2>
     <div class="research-list">
+      <p>As an economic sociologist, I study the relationship between organizations and labor markets. My research asks how organizations build their workforce and shape workers’ careers.</p>
       <article class="research-item">
-        <h3>Entrepreneurship and labor markets</h3>
-        <p>How young firms assemble their workforces, how workers are placed inside startups, and how early employment experiences shape entrepreneurial careers.</p>
-      </article>
-      <article class="research-item">
-        <h3>Gender and organizations</h3>
-        <p>How gender shapes evaluations, occupational opportunities, and access to consequential roles within entrepreneurial organizations.</p>
+        <h3>Startups and talent</h3>
+        <p>One stream examines how startups acquire talent and why some face greater constraints in doing so.</p>
       </article>
       <article class="research-item">
         <h3>Organizations and careers</h3>
-        <p>How organizational events—including misconduct disclosure, restructuring, and closure—alter workers’ employment trajectories.</p>
+        <p>Another examines how organizational practices and events affect the career trajectories of workers from marginalized backgrounds.</p>
       </article>
       <div class="link-row">
         <a href="./publications.html">Publications and working papers →</a>
