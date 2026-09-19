@@ -63,7 +63,7 @@ title: Moksh Garg
     <div>
       <p>Planning to apply for a PhD in Business in the United States or Europe? This guide offers a behind-the-scenes look at the application process. I created this public resource after completing my own graduate school applications, and I hope you find it helpful. </p>
       <div class="link-row">
-        <a href="https://www.dropbox.com/scl/fi/hbd9z98uacqf4dvuamlyx/PhDGuide_Garg_Mahanti.pdf?rlkey=ouep4w3k3x9axvjdoe5fwup3k&st=qsni6wab&dl=0">Read the guide →</a>
+        <a href="https://www.dropbox.com/scl/fi/izosamoqw5pz3hltr53kx/PhD_Guide.pdf?rlkey=v0sl8llujrlk6im1ubw1et585&st=2or398a9&dl=0">Read the guide →</a>
       </div>
     </div>
   </div>
