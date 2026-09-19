@@ -85,9 +85,9 @@ a:hover, a:focus {
 
 .hero {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 340px;
-  gap: 60px;
-  align-items: stretch;
+  grid-template-columns: minmax(0, 1fr) 300px;
+  gap: 64px;
+  align-items: start;
   padding-bottom: 64px;
   border-bottom: 1px solid var(--line);
 }
@@ -128,25 +128,43 @@ h1 {
 
 .hero-copy p:last-child { margin-bottom: 0; }
 
-.hero-photo {
-  height: 100%;
+.profile-sidebar {
+  width: 100%;
 }
 
 .profile-photo {
   width: 100%;
-  height: 100%;
   display: block;
+  aspect-ratio: 4 / 5;
   object-fit: cover;
   object-position: center top;
   border-radius: 2px;
   filter: saturate(0.9);
 }
 
-.profile-caption {
-  margin: 12px 0 0;
+.profile-detail {
+  padding: 18px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.profile-detail > span {
+  display: block;
+  margin-bottom: 6px;
   color: var(--muted);
-  font-size: 13px;
-  line-height: 1.5;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.profile-detail p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.profile-detail a {
+  overflow-wrap: anywhere;
 }
 
 .content-section {
@@ -540,15 +558,7 @@ blockquote {
     gap: 36px;
   }
 
-  .hero-photo {
-    max-width: 280px;
-    height: auto;
-  }
-
-  .profile-photo {
-    height: auto;
-    aspect-ratio: 4 / 5;
-  }
+  .profile-sidebar { max-width: 300px; }
 
   .section-grid { grid-template-columns: 1fr; gap: 24px; }
 
