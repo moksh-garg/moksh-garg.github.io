@@ -19,7 +19,7 @@ title: Teaching
     </div>
     <div class="course-details">
       <span>March 2026</span>
-      <span>MIT Sloan</span>
+      <span class="course-rating">Rating: 6.10/7.00</span>
     </div>
   </article>
 
