@@ -65,12 +65,6 @@ title: Teaching
   </article>
 </section>
 
-<section class="teaching-reflection">
-  <h2>Teaching Experience</h2>
-  <p>
-    Outside of research, serving as a teaching assistant for students from diverse professional backgrounds has been an incredibly fulfilling experience. It has given me the opportunity to help students engage with key concepts and frameworks while also learning from the perspectives they bring to the classroom. Their encouraging feedback has made this work especially rewarding.
-  </p>
-</section>
 
 <section class="student-feedback">
   <h2>Selected Student Feedback</h2>
