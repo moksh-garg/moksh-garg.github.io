@@ -438,6 +438,78 @@ blockquote {
   border-bottom: 1px solid rgba(229, 225, 219, 0.75);
 }
 
+
+.teaching-intro {
+  max-width: 760px;
+  margin: -18px 0 48px;
+  color: var(--muted);
+  font-size: 18px;
+}
+
+.teaching-group {
+  max-width: 900px;
+  padding: 32px 0 38px;
+  border-top: 1px solid var(--line);
+}
+
+.course-entry {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 220px;
+  gap: 42px;
+  padding: 20px 0;
+  border-bottom: 1px solid rgba(229, 225, 219, 0.72);
+}
+
+.course-entry h2 {
+  margin: 0 0 6px;
+  font-size: 23px;
+  line-height: 1.3;
+}
+
+.course-entry p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.course-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.course-rating {
+  margin-top: 5px;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.teaching-reflection,
+.student-feedback {
+  max-width: 850px;
+  padding-top: 48px;
+  border-top: 1px solid var(--line);
+}
+
+.teaching-reflection h2,
+.student-feedback h2 {
+  margin: 0 0 20px;
+  font-size: 27px;
+}
+
+.student-feedback { margin-top: 48px; }
+
+.student-feedback blockquote {
+  margin: 0 0 20px;
+  padding: 20px 24px;
+  background: rgba(139, 29, 50, 0.035);
+  border-left: 3px solid var(--accent);
+  color: #3f4246;
+  font-size: 16px;
+}
+
 @media (max-width: 760px) {
   body { font-size: 16px; }
 
@@ -476,6 +548,10 @@ blockquote {
 
   .venue-list li,
   .earlier-entry { grid-template-columns: 1fr; gap: 3px; }
+
+  .course-entry { grid-template-columns: 1fr; gap: 10px; }
+
+  .course-details { align-items: flex-start; }
 
   .site-footer > div { padding-left: 20px; padding-right: 20px; }
 }
