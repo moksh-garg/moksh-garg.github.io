@@ -85,9 +85,9 @@ a:hover, a:focus {
 
 .hero {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 280px;
-  gap: 72px;
-  align-items: start;
+  grid-template-columns: minmax(0, 1fr) 340px;
+  gap: 60px;
+  align-items: stretch;
   padding-bottom: 64px;
   border-bottom: 1px solid var(--line);
 }
@@ -128,10 +128,14 @@ h1 {
 
 .hero-copy p:last-child { margin-bottom: 0; }
 
+.hero-photo {
+  height: 100%;
+}
+
 .profile-photo {
   width: 100%;
+  height: 100%;
   display: block;
-  aspect-ratio: 4 / 5;
   object-fit: cover;
   object-position: center top;
   border-radius: 2px;
@@ -536,7 +540,15 @@ blockquote {
     gap: 36px;
   }
 
-  .hero-photo { max-width: 250px; }
+  .hero-photo {
+    max-width: 280px;
+    height: auto;
+  }
+
+  .profile-photo {
+    height: auto;
+    aspect-ratio: 4 / 5;
+  }
 
   .section-grid { grid-template-columns: 1fr; gap: 24px; }
 
