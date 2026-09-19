@@ -5,9 +5,12 @@ title: Presentations
 
 # Presentations
 
-<p class="presentation-intro">
-  Selected conference, workshop, and seminar presentations of my research.
-</p>
+<div class="presentations-hero">
+  <p class="presentation-intro">
+    Selected conference, workshop, and seminar presentations of my research.
+  </p>
+  <img class="presentation-photo" src="/assets/img/mg_hec.jpg" alt="Moksh Garg presenting research at HEC Paris">
+</div>
 
 <section class="presentation-project">
   <p class="paper-kicker">Current Research</p>
