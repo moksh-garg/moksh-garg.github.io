@@ -30,23 +30,31 @@ title: Moksh Garg
     <h2>Research</h2>
     <div class="research-list">
       <article class="research-item">
-        <h3>Entrepreneurship and labor markets</h3>
-        <p> How do startups assemble workforce, how workers are placed inside startups, and how early employment experiences shape subsequent careers.</p>
+        <h3>Startups and Labor Markets</h3>
+        <p>
+            How startups assemble their workforce and how employment within startups shapes workers’ subsequent careers.
+        </p>
       </article>
-      <article class="research-item">
-        <h3>Entrepreneurship and Careers</h3>
-        <p>How gender shapes evaluations, occupational opportunities, and access to consequential roles within entrepreneurial organizations.</p>
+
+   <article class="research-item">
+        <h3>Organizations, Careers, and Inequality</h3>
+        <p>
+          How organizational systems and practices shape workers’ careers,
+          both within and beyond, and how these processes
+          reproduce or reduce inequality among workers from disadvantaged
+          backgrounds.
+        </p>
       </article>
-      <article class="research-item">
-        <h3>Organizations and Inequality</h3>
-        <p>How organizational events—including misconduct disclosure, restructuring, and closure—alter workers’ employment trajectories.</p>
-      </article>
-      <div class="link-row">
-        <a href="./publications.html">Publications and working papers →</a>
+      
+  <div class="link-row">
+        <a href="./publications.html">
+          Publications and working papers →
+        </a>
       </div>
     </div>
   </div>
 </section>
+
 
 <section class="content-section">
   <div class="section-grid">
