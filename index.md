@@ -71,7 +71,7 @@ title: Moksh Garg
 
 <section class="content-section">
   <div class="section-grid">
-    <h2>Selected writing</h2>
+    <h2>Selected Writing</h2>
     <ul class="news-list">
       <li><span class="news-date">Nov. 2023</span><span><a href="https://www.outlookindia.com/business/esg-and-stakeholder-capitalism-seeking-value-for-all-news-284879">“ESG and Stakeholder Capitalism: Seeking Value for All”</a>, Outlook India</span></li>
       <li><span class="news-date">Mar. 2022</span><span><a href="https://www.financialexpress.com/education-2/numbers-and-beyond-gender-equity-in-corporate-india-at-board-level/2458723/">“Numbers & Beyond: Gender Equity in Corporate India at Board Level”</a>, Financial Express</span></li>
