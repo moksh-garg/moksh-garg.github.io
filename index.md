@@ -11,7 +11,7 @@ title: Moksh Garg
     <div class="hero-copy">
       <p>As an economic sociologist, I study startups, labor markets, and development. One stream examines how startups acquire talent and why some face greater constraints in doing so. Another examines how organizational processes and practices affect the career trajectories of workers, especially for those from marginalized backgrounds. </p>
       <p> I'm currently advised by Professors Ezra Zuckerman Sivan, Emilio Castilla, and Fiona Murray. </p>
-      <p> Prior to joining MIT, I did my MBA from Indian Institute of Management Ahmedabad and worked as a Corporate Banker with HSBC India. </p>
+      <p> Prior to joining MIT, I did my MBA from Indian Institute of Management (IIM) Ahmedabad and worked as a Corporate Banker with HSBC India. </p>
     </div>
     <div class="link-row">
       <a href="./publications.html">View research →</a>
@@ -58,9 +58,9 @@ title: Moksh Garg
 
 <section class="content-section">
   <div class="section-grid">
-    <h2>PhD application guide</h2>
+    <h2>PhD Application Guide</h2>
     <div>
-      <p>Planning to apply for a PhD in Business in the United States or Europe? This guide offers a behind-the-scenes look at the application process. It is written from an Indian applicant’s perspective, but much of the advice is useful for international applicants more broadly.</p>
+      <p>Planning to apply for a PhD in Business in the United States or Europe? This guide offers a behind-the-scenes look at the application process. I created this public resource after completing my own graduate school applications, and I hope you find it helpful. </p>
       <div class="link-row">
         <a href="https://www.dropbox.com/scl/fi/hbd9z98uacqf4dvuamlyx/PhDGuide_Garg_Mahanti.pdf?rlkey=ouep4w3k3x9axvjdoe5fwup3k&st=qsni6wab&dl=0">Read the guide →</a>
       </div>
