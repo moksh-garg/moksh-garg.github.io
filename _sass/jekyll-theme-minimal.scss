@@ -345,9 +345,8 @@ blockquote {
   max-width: 900px;
   margin: -18px 0 48px;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 210px;
-  gap: 46px;
-  align-items: center;
+  grid-template-columns: 1fr;
+  gap: 26px;
 }
 
 .presentation-intro {
@@ -358,8 +357,9 @@ blockquote {
 }
 
 .presentation-photo {
-  width: 210px;
+  width: min(100%, 360px);
   aspect-ratio: 4 / 3;
+  justify-self: center;
   object-fit: cover;
   object-position: center;
   border-radius: 3px;
@@ -465,12 +465,9 @@ blockquote {
 
   .news-list li { grid-template-columns: 1fr; gap: 3px; }
 
-  .presentations-hero {
-    grid-template-columns: 1fr;
-    gap: 22px;
-  }
+  .presentations-hero { gap: 22px; }
 
-  .presentation-photo { width: 170px; }
+  .presentation-photo { width: min(100%, 280px); }
 
   .venue-list li,
   .earlier-entry { grid-template-columns: 1fr; gap: 3px; }
