@@ -45,6 +45,28 @@ title: Working Papers
   </details>
 </article>
 
+<article class="paper-entry">
+  <p class="paper-kicker">Working Paper · 2026</p>
+  <h2>Fast Tracks but Unequal Paths: Career Attainment in High-Growth Startups</h2>
+
+  <div class="paper-meta">
+    <h3>Selected Presentations</h3>
+    <ul class="presentation-list">
+      <li><strong>People &amp; Organizations Conference</strong> (forthcoming, 2026)</li>
+      <li><strong>Medici Summer School in Management Studies</strong>, MIT Sloan (2026)</li>
+    </ul>
+  </div>
+
+  <details class="paper-abstract">
+    <summary>Abstract</summary>
+    <p>Startup employment can be consequential for workers’ careers. Prior research documents that employment in young firms can be precarious, exposing workers to career instabilities with potentially lasting consequences. Why, then, do workers join startups? Existing explanations emphasize the prospect of outsized financial rewards and the appeal of startup narratives. I argue that startup employment may also be attractive because it provides opportunities for career attainment by granting workers earlier access to positions with greater authority and more analytically intensive work than are typically available in established organizations.</p>
+
+    <p>Using matched employer–employee data linking Revelio Labs employment histories to PitchBook startups, I compare early joiners at startups to comparable workers entering established firms. I find that startup employment is associated with entry into positions carrying greater authority and responsibility, as well as work characterized by more non-routine analytical content. Both dimensions are associated with stronger attachment to entrepreneurial careers and a greater likelihood of subsequent founder transitions.</p>
+
+    <p>These opportunities, however, are not distributed equally. Relative to men, women realize smaller gains in hierarchical placement and are routed into roles characterized by lower levels of abstract task content. These differences also explain part of the subsequent gender gap in entrepreneurial careers.</p>
+  </details>
+</article>
+
 <section class="publication-section">
   <h2>Case Studies</h2>
 
