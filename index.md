@@ -22,7 +22,7 @@ title: Moksh Garg
   </div>
   <div class="hero-photo">
     <img class="profile-photo" src="{{ site.logo | relative_url }}" alt="Portrait of Moksh Garg">
-    <p class="profile-caption">PhD Candidate, MIT Sloan School of Management</p>
+    <p class="profile-caption"></p>
   </div>
 </section>
 
