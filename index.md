@@ -21,7 +21,7 @@ title: Moksh Garg
     </div>
   </div>
   <div class="hero-photo">
-    <img class="profile-photo" src="{{ site.logo | relative_url }}" alt="Portrait of Moksh Garg">
+    <img class="profile-photo" src="{{ '/assets/img/DSC_0617.JPG' | relative_url }}" alt="Portrait of Moksh Garg">
     <p class="profile-caption"></p>
   </div>
 </section>
