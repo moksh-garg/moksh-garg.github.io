@@ -9,7 +9,7 @@ title: Moksh Garg
     <h1>Moksh Garg</h1>
     <p class="hero-title">PhD Candidate in Management<br>MIT Sloan School of Management</p>
     <div class="hero-copy">
-      <p>As an economic sociologist, I study the relationship between organizations and labor markets. My research asks how organizations build their workforce and shape workers' careers. One stream examines how startups acquire talent and why some face greater constraints in doing so. Another examines how organizational practices and events affect the career trajectories of workers from marginalized backgrounds. </p>
+      <p>As an economic sociologist, I study startups, labor markets, and development. One stream examines how startups acquire talent and why some face greater constraints in doing so. Another examines how organizational processes and practices affect the career trajectories of workers, especially for those from marginalized backgrounds. </p>
       <p> I'm currently advised by Professors Ezra Zuckerman Sivan, Emilio Castilla, and Fiona Murray. </p>
       <p> Prior to joining MIT, I did my MBA from Indian Institute of Management Ahmedabad and worked as a Corporate Banker with HSBC India. </p>
     </div>
