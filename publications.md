@@ -38,7 +38,7 @@ title: Working Papers
   <div class="paper-meta">
     <h3>Selected Presentations</h3>
     <ul class="presentation-list">
-      <li><strong>People &amp; Organizations Conference</strong> (forthcoming, 2026)</li>
+      <li><strong>People &amp; Organizations Conference</strong>, The Wharton School (forthcoming, 2026)</li>
       <li><strong>Medici Summer School in Management Studies</strong>, MIT Sloan (2026)</li>
     </ul>
   </div>
