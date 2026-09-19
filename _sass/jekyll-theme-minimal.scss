@@ -340,6 +340,12 @@ blockquote {
   border-bottom: 1px solid rgba(229, 225, 219, 0.75);
 }
 
+.publication-list em {
+  color: var(--accent);
+  font-style: normal;
+  font-weight: 500;
+}
+
 
 .presentations-hero {
   max-width: 900px;
