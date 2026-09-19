@@ -1,29 +1,133 @@
 ---
 layout: default
+title: Presentations
 ---
 
 # Presentations
 
-![MG_HEC](/assets/img/mg_hec.jpg)
+<div class="presentations-hero">
+  <p class="presentation-intro">
+    Selected conference, workshop, and seminar presentations of my research.
+  </p>
+  <img class="presentation-photo" src="/assets/img/mg_hec.jpg" alt="Moksh Garg presenting research at HEC Paris">
+</div>
 
-## Presentations as a PhD Student
-+ Garg, M. (2026, Sep 25-26). Moved to Found? Gender, Startup Entry, and Entrepreneurial Careers. 19th People & Organizations Conference, Philadelphia, USA.
-+ Garg, M. & Castilla, EJ. (2026, Aug 9). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. 121st American Sociological Association Conference, New York, USA.
-+ Garg, M. & Castilla, EJ. (2026, Aug 4). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. 86th Academy of Management Conference,Philadelphia, USA.
-+ Garg, M. & Castilla, EJ. (2026, March 31). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. MIT Institute of Work and Employment Research Seminar, Boston, USA.
-+ Garg, M. & Castilla, EJ. (2025, September 19-20). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. 18th People & Organizations Conference, Philadelphia, USA.
-+ Garg, M. & Castilla, EJ. (2025, September 10). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. INSPER Brown Bag, Virtual. 
-+ Garg, M. & Castilla, EJ. (2025, June 30 - July 2). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. HEC RICE Organizational Underworld Conference, Paris, France.
-+ Garg, M. & Castilla, EJ. (2025, June 6-7). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. Equitable Opportunity Conference, Boston, USA.
-+ Garg, M. & Castilla, EJ. (2025, February 26). Cracks of Opportunity: Unveiling the Impact of Misconduct Disclosure on Workers' Employment Trajectories. MIT Economic Sociology Working Group, Boston, USA.
-+ Garg, M. (2024, August 21). The Gendered Effects of Intra-household Dynamics on Entrepreneurial Growth. MIT Economic Sociology Working Group, Boston, USA.
-  
-## Presentations as a Pre-doc
-+ Garg, M. & Ray, S. (2023, August 4-8). Bringing Back Family into Family Business Research: A Sociological Perspective. Academy of Management Conference, Boston, USA. (Accepted)
-+ Garg, M. (2023, August 4-8). Rising from the Ashes: Analyzing the Impact of Glass-Cliff Appointments on Structural Equality and Firm Value. Academy of Management Conference, Boston, USA. (Accepted)
-+ Garg, M., Bang, N. & Ray, S. (2023, July 6-8). Going Beyond and Above: Investigating Structural Determinants of Firm’s Sustainability Orientation. International Family Enterprise Research Academy Conference, Krakow, Poland.
-+ Garg, M., Bang, N. & Ray, S. (2023, April 26-28). Going an Extra Mile: Investigating Structural Determinants of Firm’s Sustainability Orientation. STEP Global Family Business Summit, Valencia, Spain.
-+ Garg, M. (2022, December 17-18). Rising from the Ashes: Analyzing the Impact of Glass Cliff Appointments on Structural Equality and Firm Value. 2nd International Conference on Network Science in Management, Ahmedabad, India. (Accepted) 
-+ Garg, M. (2021, December 16-18). The Interplay between Corporate Sustainability and Organizational Willingness and Ability: Evidence from India. 8th PAN IIM World Management Conference, Kozhikode, India. (Accepted and Presented)
+<section class="presentation-project">
+  <p class="paper-kicker">Current Research</p>
+  <h2>Fast Tracks but Unequal Paths: Career Attainment in High-Growth Startups</h2>
 
+  <ul class="venue-list">
+    <li>
+      <time>Sep. 2026</time>
+      <div><strong>People &amp; Organizations Conference</strong><span>The Wharton School, Philadelphia</span></div>
+    </li>
+    <li>
+      <time>Jun. 2026</time>
+      <div><strong>Medici Summer School in Management Studies</strong><span>MIT Sloan School of Management, Cambridge</span></div>
+    </li>
+  </ul>
+</section>
 
+<section class="presentation-project">
+  <p class="paper-kicker">Current Research · With Emilio J. Castilla</p>
+  <h2>The Unequal Career Consequences of Misconduct Disclosure: Evidence from Firm Sanctions in Brazil</h2>
+
+  <ul class="venue-list">
+    <li>
+      <time>Aug. 2026</time>
+      <div><strong>American Sociological Association Annual Meeting</strong><span>Plenary Session · New York</span></div>
+    </li>
+    <li>
+      <time>Aug. 2026</time>
+      <div><strong>Academy of Management Annual Meeting</strong><span>Philadelphia</span></div>
+    </li>
+    <li>
+      <time>Mar. 2026</time>
+      <div><strong>MIT Institute for Work and Employment Research Seminar</strong><span>Cambridge</span></div>
+    </li>
+    <li>
+      <time>Sep. 2025</time>
+      <div><strong>People &amp; Organizations Conference</strong><span>The Wharton School, Philadelphia</span></div>
+    </li>
+    <li>
+      <time>Sep. 2025</time>
+      <div><strong>Insper Brown Bag</strong><span>Virtual</span></div>
+    </li>
+    <li>
+      <time>Jul. 2025</time>
+      <div><strong>HEC RICE Organizational Underworld Conference</strong><span>Paris</span></div>
+    </li>
+    <li>
+      <time>Jun. 2025</time>
+      <div><strong>Equitable Opportunity Conference</strong><span>Boston</span></div>
+    </li>
+    <li>
+      <time>Feb. 2025</time>
+      <div><strong>MIT Economic Sociology Working Group</strong><span>Cambridge</span></div>
+    </li>
+  </ul>
+</section>
+
+<section class="presentation-project">
+  <p class="paper-kicker">Other Research</p>
+  <h2>The Gendered Effects of Intra-household Dynamics on Entrepreneurial Growth</h2>
+
+  <ul class="venue-list">
+    <li>
+      <time>Aug. 2024</time>
+      <div><strong>MIT Economic Sociology Working Group</strong><span>Cambridge</span></div>
+    </li>
+  </ul>
+</section>
+
+<section class="earlier-presentations">
+  <h2>Earlier Presentations</h2>
+
+  <div class="earlier-entry">
+    <time>2023</time>
+    <div>
+      <strong>Bringing Back Family into Family Business Research: A Sociological Perspective</strong>
+      <span>Academy of Management Annual Meeting, Boston · with S. Ray</span>
+    </div>
+  </div>
+
+  <div class="earlier-entry">
+    <time>2023</time>
+    <div>
+      <strong>Rising from the Ashes: Analyzing the Impact of Glass-Cliff Appointments on Structural Equality and Firm Value</strong>
+      <span>Academy of Management Annual Meeting, Boston</span>
+    </div>
+  </div>
+
+  <div class="earlier-entry">
+    <time>2023</time>
+    <div>
+      <strong>Going Beyond and Above: Investigating Structural Determinants of Firm’s Sustainability Orientation</strong>
+      <span>International Family Enterprise Research Academy Conference, Krakow · with N. Bang and S. Ray</span>
+    </div>
+  </div>
+
+  <div class="earlier-entry">
+    <time>2023</time>
+    <div>
+      <strong>Going an Extra Mile: Investigating Structural Determinants of Firm’s Sustainability Orientation</strong>
+      <span>STEP Global Family Business Summit, Valencia · with N. Bang and S. Ray</span>
+    </div>
+  </div>
+
+  <div class="earlier-entry">
+    <time>2022</time>
+    <div>
+      <strong>Rising from the Ashes: Analyzing the Impact of Glass-Cliff Appointments on Structural Equality and Firm Value</strong>
+      <span>International Conference on Network Science in Management, Ahmedabad</span>
+    </div>
+  </div>
+
+  <div class="earlier-entry">
+    <time>2021</time>
+    <div>
+      <strong>The Interplay between Corporate Sustainability and Organizational Willingness and Ability: Evidence from India</strong>
+      <span>PAN IIM World Management Conference, Kozhikode</span>
+    </div>
+  </div>
+</section>
