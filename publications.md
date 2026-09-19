@@ -15,7 +15,7 @@ title: Working Papers
       <li><strong>American Sociological Association Annual Meeting</strong>, Plenary Session (2026)</li>
       <li><strong>Academy of Management Annual Meeting</strong> (2026)</li>
       <li><strong>MIT Institute for Work and Employment Research Seminar</strong> (2026)</li>
-      <li><strong>People &amp; Organizations Conference</strong> (2025)</li>
+      <li><strong> Wharton's People &amp; Organizations Conference</strong> (2025)</li>
       <li><strong>HEC RICE Organizational Underworld Conference</strong> (2025)</li>
       <li><strong>Equitable Opportunity Conference</strong> (2025)</li>
     </ul>
@@ -38,7 +38,7 @@ title: Working Papers
   <div class="paper-meta">
     <h3>Selected Presentations</h3>
     <ul class="presentation-list">
-      <li><strong>People &amp; Organizations Conference</strong> (forthcoming, 2026)</li>
+      <li><strong> Wharton's People &amp; Organizations Conference</strong> (2026)</li>
       <li><strong>Medici Summer School in Management Studies</strong>, MIT Sloan (2026)</li>
     </ul>
   </div>
