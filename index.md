@@ -5,11 +5,11 @@ title: Moksh Garg
 
 <section class="hero">
   <div>
-    <p class="eyebrow">Economic Sociology · MIT Sloan</p>
+    <p class="eyebrow"> Management · MIT Sloan</p>
     <h1>Moksh Garg</h1>
     <p class="hero-title">PhD Candidate in Management<br>MIT Sloan School of Management</p>
     <div class="hero-copy">
-      <p>As an economic sociologist, I study the relationship between organizations and labor markets. My research asks how organizations build their workforce and shape workers’ careers. One stream examines how startups acquire talent and why some face greater constraints in doing so. Another examines how organizational practices and events affect the career trajectories of workers from marginalized backgrounds.</p>
+      <p>As an economic sociologist, I study the relationship between organizations and labor markets. My research asks how organizations build their workforce and shape workers' careers. One stream examines how startups acquire talent and why some face greater constraints in doing so. Another examines how organizational practices and events affect the career trajectories of workers from marginalized backgrounds. </p>
       <p> Prior to joining MIT, I did my MBA from Indian Institute of Management Ahmedabad and worked as a Corporate Banker with HSBC India. </p>
     </div>
     <div class="link-row">
@@ -33,11 +33,11 @@ title: Moksh Garg
         <p> How do startups assemble workforce, how workers are placed inside startups, and how early employment experiences shape subsequent careers.</p>
       </article>
       <article class="research-item">
-        <h3>Gender and organizations</h3>
+        <h3>Entrepreneurship and Careers</h3>
         <p>How gender shapes evaluations, occupational opportunities, and access to consequential roles within entrepreneurial organizations.</p>
       </article>
       <article class="research-item">
-        <h3>Organizations and careers</h3>
+        <h3>Organizations and Inequality</h3>
         <p>How organizational events—including misconduct disclosure, restructuring, and closure—alter workers’ employment trajectories.</p>
       </article>
       <div class="link-row">
