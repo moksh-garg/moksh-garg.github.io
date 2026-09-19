@@ -9,8 +9,8 @@ title: Moksh Garg
     <h1>Moksh Garg</h1>
     <p class="hero-title">PhD Candidate in Management<br>MIT Sloan School of Management</p>
     <div class="hero-copy">
-      <p>I am a PhD candidate in Management, with a concentration in Economic Sociology, at the MIT Sloan School of Management. My research lies at the intersection of entrepreneurship, labor markets, and development.</p>
-      <p>My work examines how workers and organizations navigate uncertainty, with particular attention to startup employment, gender inequality, and the career consequences of organizational misconduct. Prior to joining MIT, I worked as a pre-doctoral fellow at the Indian School of Business.</p>
+      <p>As an economic sociologist, I study the relationship between organizations and labor markets. My research asks how organizations build their workforce and shape workers’ careers. One stream examines how startups acquire talent and why some face greater constraints in doing so. Another examines how organizational practices and events affect the career trajectories of workers from marginalized backgrounds.</p>
+      <p> Prior to joining MIT, I did my MBA from Indian Institute of Management Ahmedabad and worked as a Corporate Banker with HSBC India. </p>
     </div>
     <div class="link-row">
       <a href="./publications.html">View research →</a>
@@ -30,7 +30,7 @@ title: Moksh Garg
     <div class="research-list">
       <article class="research-item">
         <h3>Entrepreneurship and labor markets</h3>
-        <p>How young firms assemble their workforces, how workers are placed inside startups, and how early employment experiences shape entrepreneurial careers.</p>
+        <p> How do startups assemble workforce, how workers are placed inside startups, and how early employment experiences shape subsequent careers.</p>
       </article>
       <article class="research-item">
         <h3>Gender and organizations</h3>
