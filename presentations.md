@@ -18,7 +18,7 @@ title: Presentations
   <ul class="venue-list">
     <li>
       <time>Sep. 2026</time>
-      <div><strong>People &amp; Organizations Conference</strong><span>The Wharton School, Philadelphia</span></div>
+      <div><strong>People &amp; Organizations Conference</strong><span>, Philadelphia</span></div>
     </li>
     <li>
       <time>Jun. 2026</time>
@@ -46,7 +46,7 @@ title: Presentations
     </li>
     <li>
       <time>Sep. 2025</time>
-      <div><strong>People &amp; Organizations Conference</strong><span>The Wharton School, Philadelphia</span></div>
+      <div><strong>People &amp; Organizations Conference</strong><span> Philadelphia</span></div>
     </li>
     <li>
       <time>Sep. 2025</time>
