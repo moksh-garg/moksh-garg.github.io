@@ -24,7 +24,7 @@ title: Moksh Garg
 
     <div class="profile-detail">
       <span>Research Areas</span>
-      <p>Startups, Labor Markets<br>, Careers, and Inequality</p>
+      <p>Startups, Labor Markets, Careers, and Inequality</p>
     </div>
 
     <div class="profile-detail">
