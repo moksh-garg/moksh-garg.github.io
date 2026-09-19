@@ -358,10 +358,9 @@ blockquote {
 
 .presentation-photo {
   width: min(100%, 560px);
-  aspect-ratio: 16 / 9;
+  height: auto;
   justify-self: center;
-  object-fit: cover;
-  object-position: center;
+  display: block;
   border-radius: 3px;
   filter: saturate(0.92);
 }
