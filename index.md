@@ -11,8 +11,7 @@ title: Moksh Garg
     <div class="hero-copy">
       <p>As an economic sociologist, I study startups, labor markets, and development. One stream examines how startups acquire talent and why some face greater constraints in doing so. Another examines how organizational processes and practices affect the career trajectories of workers, especially for those from marginalized backgrounds. </p>
       <p> I'm currently advised by Professors Ezra Zuckerman Sivan, Emilio Castilla, and Fiona Murray. </p>
-       <p>  Outside of research, I pursue competitive ballroom and Latin dancing as a
-  member of the
+       <p>  Outside of research, I compete in ballroom and latin dancing for
   <a href="https://ballroom.mit.edu/">MIT Ballroom Dance Team</a>. </p>
       
   </div>
