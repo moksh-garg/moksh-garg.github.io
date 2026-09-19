@@ -9,6 +9,18 @@ title: Working Papers
   <p class="paper-kicker">Working Paper · Master’s Thesis</p>
   <h2>The Unequal Career Consequences of Misconduct Disclosure: Evidence from Firm Sanctions in Brazil</h2>
 
+  <div class="paper-meta">
+    <h3>Selected Presentations</h3>
+    <ul class="presentation-list">
+      <li><strong>American Sociological Association Annual Meeting</strong>, Plenary Session (2026)</li>
+      <li><strong>Academy of Management Annual Meeting</strong> (2026)</li>
+      <li><strong>MIT Institute for Work and Employment Research Seminar</strong> (2026)</li>
+      <li><strong>People &amp; Organizations Conference</strong> (2025)</li>
+      <li><strong>HEC RICE Organizational Underworld Conference</strong> (2025)</li>
+      <li><strong>Equitable Opportunity Conference</strong> (2025)</li>
+    </ul>
+  </div>
+
   <details class="paper-abstract">
     <summary>Abstract</summary>
     <p>Research on organizational misconduct has largely conceptualized disclosure as a stigmatizing event that penalizes organizational elites. We extend this work by examining how disclosure affects lower-ranked workers. Drawing on stigma and attribution theories, we argue that elites are more likely to be perceived as responsible for wrongdoing and therefore face stronger career penalties than lower-ranked workers.</p>
