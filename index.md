@@ -10,7 +10,7 @@ title: Moksh Garg
     <p class="hero-title">PhD Candidate in Management<br>MIT Sloan School of Management</p>
     <div class="hero-copy">
       <p> I am an economic sociologist, and my research spans entrepreneurship, labor markets, and inequality. One stream focuses on how startups acquire talent and why some face greater constraints in doing so. Another examines how organizational processes and practices affect the career trajectories of workers, especially for those from marginalized backgrounds. </p>
-      <p> I'm currently advised by Professors Ezra Zuckerman Sivan, Emilio Castilla, and Fiona Murray. </p>
+      <p> Currently starting fourth year of my PhD, I am advised by Professors Ezra Zuckerman Sivan, Emilio Castilla, and Fiona Murray. </p>
       
   </div>
     <div class="link-row">
