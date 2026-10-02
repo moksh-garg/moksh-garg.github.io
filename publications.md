@@ -7,7 +7,7 @@ title: Working Papers
 
 <article class="paper-entry">
   <p class="paper-kicker">Working Paper · Master’s Thesis</p>
-  <h2>The Unequal Career Consequences of Misconduct Disclosure: Evidence from Firm Sanctions in Brazil</h2>
+  <h2>Misconduct Disclosure and Workers' Careers</h2>
 
   <div class="paper-meta">
     <h3>Selected Presentations</h3>
