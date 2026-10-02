@@ -16,8 +16,10 @@ title: Working Papers
       <li><strong>Academy of Management Annual Meeting</strong> (2026)</li>
       <li><strong>MIT Institute for Work and Employment Research Seminar</strong> (2026)</li>
       <li><strong> Wharton's People &amp; Organizations Conference</strong> (2025)</li>
+      <li><strong> Insper Brown Bag Series </strong> (2025)</li>
       <li><strong>HEC RICE Organizational Underworld Conference</strong> (2025)</li>
       <li><strong>Equitable Opportunity Conference</strong> (2025)</li>
+      <li><strong>MIT Economic Sociology Working Group</strong> (2025)</li>
     </ul>
   </div>
 
